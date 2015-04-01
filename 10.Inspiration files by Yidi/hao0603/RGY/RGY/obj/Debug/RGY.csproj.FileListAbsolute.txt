@@ -1,0 +1,415 @@
+G:\DropBox\Dropbox\PROCP\Application\RGY\RGY\bin\Debug\RGY.exe.config
+G:\DropBox\Dropbox\PROCP\Application\RGY\RGY\bin\Debug\RGY.exe
+G:\DropBox\Dropbox\PROCP\Application\RGY\RGY\bin\Debug\RGY.pdb
+G:\DropBox\Dropbox\PROCP\Application\RGY\RGY\obj\Debug\RGY.Form1.resources
+G:\DropBox\Dropbox\PROCP\Application\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+G:\DropBox\Dropbox\PROCP\Application\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+G:\DropBox\Dropbox\PROCP\Application\RGY\RGY\obj\Debug\RGY.exe
+G:\DropBox\Dropbox\PROCP\Application\RGY\RGY\obj\Debug\RGY.pdb
+G:\DropBox\Dropbox\PROCP\Application\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+G:\DropBox\Dropbox\PROCP\Application\RGY\RGY\bin\Debug\Adding New CR.exe
+G:\DropBox\Dropbox\PROCP\Application\RGY\RGY\bin\Debug\Adding New CR.pdb
+F:\Dropbox\Dropbox\PROCP\Application\RGY\RGY\bin\Debug\RGY.exe.config
+F:\Dropbox\Dropbox\PROCP\Application\RGY\RGY\obj\Debug\RGY.exe
+F:\Dropbox\Dropbox\PROCP\Application\RGY\RGY\obj\Debug\RGY.pdb
+F:\Dropbox\Dropbox\PROCP\Application\RGY\RGY\bin\Debug\RGY.exe
+F:\Dropbox\Dropbox\PROCP\Application\RGY\RGY\bin\Debug\RGY.pdb
+F:\Dropbox\Dropbox\PROCP\Application\RGY\RGY\bin\Debug\Adding New CR.exe
+F:\Dropbox\Dropbox\PROCP\Application\RGY\RGY\bin\Debug\Adding New CR.pdb
+F:\Dropbox\Dropbox\PROCP\Application\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+F:\Dropbox\Dropbox\PROCP\Application\RGY\RGY\obj\Debug\RGY.Form1.resources
+F:\Dropbox\Dropbox\PROCP\Application\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+F:\Dropbox\Dropbox\PROCP\Application\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+F:\Dropbox\Dropbox\PROCP\Application\RGY\RGY\bin\Debug\Adding New CR 2.exe
+F:\Dropbox\Dropbox\PROCP\Application\RGY\RGY\bin\Debug\Adding New CR 2.pdb
+G:\DropBox\Dropbox\PROCP\Application\RGY\RGY\bin\Debug\Adding New CR 2.exe
+G:\DropBox\Dropbox\PROCP\Application\RGY\RGY\bin\Debug\Adding New CR 2.pdb
+G:\DropBox\Dropbox\PROCP\Application\RGY\RGY\bin\Debug\Adding New CR 3.exe
+G:\DropBox\Dropbox\PROCP\Application\RGY\RGY\bin\Debug\Adding New CR 3.pdb
+C:\Users\Camila\Dropbox\block7prop\Application\RGY\RGY\bin\Debug\RGY.exe.config
+C:\Users\Camila\Dropbox\block7prop\Application\RGY\RGY\obj\Debug\RGY.exe
+C:\Users\Camila\Dropbox\block7prop\Application\RGY\RGY\obj\Debug\RGY.pdb
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\RGY\bin\Debug\RGY.exe.config
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\RGY\obj\Debug\RGY.exe
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\RGY\obj\Debug\RGY.pdb
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\RGY\obj\Debug\RGY.Form1.resources
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\RGY\bin\Debug\RGY.exe
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\RGY\bin\Debug\RGY.pdb
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\RGY\bin\Debug\Adding New CR 2.exe
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\RGY\bin\Debug\Adding New CR 3.exe
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\RGY\bin\Debug\Adding New CR.exe
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\RGY\bin\Debug\Adding New CR 2.pdb
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\RGY\bin\Debug\Adding New CR 3.pdb
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\RGY\bin\Debug\Adding New CR.pdb
+F:\Dropbox\Dropbox\PROCP\Application\RGY\RGY\bin\Debug\Adding New CR 3.exe
+F:\Dropbox\Dropbox\PROCP\Application\RGY\RGY\bin\Debug\Adding New CR 3.pdb
+D:\dropbox\Dropbox\block7prop\Application\RGY\RGY\bin\Debug\RGY.exe.config
+D:\dropbox\Dropbox\block7prop\Application\RGY\RGY\obj\Debug\RGY.exe
+D:\dropbox\Dropbox\block7prop\Application\RGY\RGY\obj\Debug\RGY.pdb
+D:\dropbox\Dropbox\block7prop\Application\RGY\RGY\bin\Debug\RGY.exe
+D:\dropbox\Dropbox\block7prop\Application\RGY\RGY\bin\Debug\RGY.pdb
+D:\dropbox\Dropbox\block7prop\Application\RGY\RGY\bin\Debug\Adding New CR 2.exe
+D:\dropbox\Dropbox\block7prop\Application\RGY\RGY\bin\Debug\Adding New CR 3.exe
+D:\dropbox\Dropbox\block7prop\Application\RGY\RGY\bin\Debug\Adding New CR.exe
+D:\dropbox\Dropbox\block7prop\Application\RGY\RGY\bin\Debug\Adding New CR 2.pdb
+D:\dropbox\Dropbox\block7prop\Application\RGY\RGY\bin\Debug\Adding New CR 3.pdb
+D:\dropbox\Dropbox\block7prop\Application\RGY\RGY\bin\Debug\Adding New CR.pdb
+D:\dropbox\Dropbox\block7prop\Application\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\block7prop\Application\RGY\RGY\obj\Debug\RGY.Form1.resources
+D:\dropbox\Dropbox\block7prop\Application\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+D:\dropbox\Dropbox\block7prop\Application\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+C:\Users\Zhen\Desktop\RGY\RGY\bin\Debug\RGY.exe.config
+C:\Users\Zhen\Desktop\RGY\RGY\obj\Debug\RGY.exe
+C:\Users\Zhen\Desktop\RGY\RGY\obj\Debug\RGY.pdb
+C:\Users\Zhen\Desktop\RGY\RGY\bin\Debug\RGY.exe
+C:\Users\Zhen\Desktop\RGY\RGY\bin\Debug\RGY.pdb
+C:\Users\Zhen\Desktop\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+C:\Users\Zhen\Desktop\RGY\RGY\obj\Debug\RGY.Form1.resources
+C:\Users\Zhen\Desktop\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+C:\Users\Zhen\Desktop\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+F:\RGY\RGY\bin\Debug\RGY.exe.config
+F:\RGY\RGY\obj\Debug\RGY.exe
+F:\RGY\RGY\obj\Debug\RGY.pdb
+F:\RGY\RGY\bin\Debug\RGY.exe
+F:\RGY\RGY\bin\Debug\RGY.pdb
+F:\RGY\RGY\bin\Debug\Adding New CR 2.exe
+F:\RGY\RGY\bin\Debug\Adding New CR 3.exe
+F:\RGY\RGY\bin\Debug\Adding New CR.exe
+F:\RGY\RGY\bin\Debug\Adding New CR 2.pdb
+F:\RGY\RGY\bin\Debug\Adding New CR 3.pdb
+F:\RGY\RGY\bin\Debug\Adding New CR.pdb
+F:\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+F:\RGY\RGY\obj\Debug\RGY.Form1.resources
+F:\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+F:\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+F:\Dropbox\Dropbox\PROCP\Application\RGY1.1\RGY\RGY\bin\Debug\RGY.exe.config
+F:\Dropbox\Dropbox\PROCP\Application\RGY1.1\RGY\RGY\obj\Debug\RGY.exe
+F:\Dropbox\Dropbox\PROCP\Application\RGY1.1\RGY\RGY\obj\Debug\RGY.pdb
+F:\Dropbox\Dropbox\PROCP\Application\RGY1.1\RGY\RGY\bin\Debug\RGY.exe
+F:\Dropbox\Dropbox\PROCP\Application\RGY1.1\RGY\RGY\bin\Debug\RGY.pdb
+F:\Dropbox\Dropbox\PROCP\Application\RGY1.1\RGY\RGY\bin\Debug\Adding New CR 2.exe
+F:\Dropbox\Dropbox\PROCP\Application\RGY1.1\RGY\RGY\bin\Debug\Adding New CR 3.exe
+F:\Dropbox\Dropbox\PROCP\Application\RGY1.1\RGY\RGY\bin\Debug\Adding New CR.exe
+F:\Dropbox\Dropbox\PROCP\Application\RGY1.1\RGY\RGY\bin\Debug\Adding New CR 2.pdb
+F:\Dropbox\Dropbox\PROCP\Application\RGY1.1\RGY\RGY\bin\Debug\Adding New CR 3.pdb
+F:\Dropbox\Dropbox\PROCP\Application\RGY1.1\RGY\RGY\bin\Debug\Adding New CR.pdb
+F:\Dropbox\Dropbox\PROCP\Application\RGY1.1\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+F:\Dropbox\Dropbox\PROCP\Application\RGY1.1\RGY\RGY\obj\Debug\RGY.Form1.resources
+F:\Dropbox\Dropbox\PROCP\Application\RGY1.1\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+F:\Dropbox\Dropbox\PROCP\Application\RGY1.1\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+H:\ICT\procp\RGY1.1 Don't touch this !!!!!!\RGY\RGY\bin\Debug\RGY.exe.config
+H:\ICT\procp\RGY1.1 Don't touch this !!!!!!\RGY\RGY\obj\Debug\RGY.exe
+H:\ICT\procp\RGY1.1 Don't touch this !!!!!!\RGY\RGY\obj\Debug\RGY.pdb
+H:\ICT\procp\RGY1.1 Don't touch this !!!!!!\RGY\RGY\bin\Debug\RGY.exe
+H:\ICT\procp\RGY1.1 Don't touch this !!!!!!\RGY\RGY\bin\Debug\RGY.pdb
+H:\ICT\procp\RGY1.1 Don't touch this !!!!!!\RGY\RGY\bin\Debug\Adding New CR 2.exe
+H:\ICT\procp\RGY1.1 Don't touch this !!!!!!\RGY\RGY\bin\Debug\Adding New CR 3.exe
+H:\ICT\procp\RGY1.1 Don't touch this !!!!!!\RGY\RGY\bin\Debug\Adding New CR.exe
+H:\ICT\procp\RGY1.1 Don't touch this !!!!!!\RGY\RGY\bin\Debug\Adding New CR 2.pdb
+H:\ICT\procp\RGY1.1 Don't touch this !!!!!!\RGY\RGY\bin\Debug\Adding New CR 3.pdb
+H:\ICT\procp\RGY1.1 Don't touch this !!!!!!\RGY\RGY\bin\Debug\Adding New CR.pdb
+H:\ICT\procp\RGY1.1 Don't touch this !!!!!!\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+H:\ICT\procp\RGY1.1 Don't touch this !!!!!!\RGY\RGY\obj\Debug\RGY.Form1.resources
+H:\ICT\procp\RGY1.1 Don't touch this !!!!!!\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+H:\ICT\procp\RGY1.1 Don't touch this !!!!!!\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+H:\ICT\procp\RGY1.2\RGY\RGY\bin\Debug\RGY.exe.config
+H:\ICT\procp\RGY1.2\RGY\RGY\obj\Debug\RGY.exe
+H:\ICT\procp\RGY1.2\RGY\RGY\obj\Debug\RGY.pdb
+H:\ICT\procp\RGY1.2\RGY\RGY\bin\Debug\RGY.exe
+H:\ICT\procp\RGY1.2\RGY\RGY\bin\Debug\RGY.pdb
+H:\ICT\procp\RGY1.2\RGY\RGY\bin\Debug\Adding New CR 2.exe
+H:\ICT\procp\RGY1.2\RGY\RGY\bin\Debug\Adding New CR 3.exe
+H:\ICT\procp\RGY1.2\RGY\RGY\bin\Debug\Adding New CR.exe
+H:\ICT\procp\RGY1.2\RGY\RGY\bin\Debug\Adding New CR 2.pdb
+H:\ICT\procp\RGY1.2\RGY\RGY\bin\Debug\Adding New CR 3.pdb
+H:\ICT\procp\RGY1.2\RGY\RGY\bin\Debug\Adding New CR.pdb
+H:\ICT\procp\RGY1.2\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+H:\ICT\procp\RGY1.2\RGY\RGY\obj\Debug\RGY.Form1.resources
+H:\ICT\procp\RGY1.2\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+H:\ICT\procp\RGY1.2\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+D:\fighting\7\procp\RGY\RGY\bin\Debug\RGY.exe.config
+D:\fighting\7\procp\RGY\RGY\obj\Debug\RGY.exe
+D:\fighting\7\procp\RGY\RGY\obj\Debug\RGY.pdb
+D:\fighting\7\procp\RGY\RGY\bin\Debug\RGY.exe
+D:\fighting\7\procp\RGY\RGY\bin\Debug\RGY.pdb
+D:\fighting\7\procp\RGY\RGY\bin\Debug\Adding New CR 2.exe
+D:\fighting\7\procp\RGY\RGY\bin\Debug\Adding New CR 3.exe
+D:\fighting\7\procp\RGY\RGY\bin\Debug\Adding New CR.exe
+D:\fighting\7\procp\RGY\RGY\bin\Debug\Adding New CR 2.pdb
+D:\fighting\7\procp\RGY\RGY\bin\Debug\Adding New CR 3.pdb
+D:\fighting\7\procp\RGY\RGY\bin\Debug\Adding New CR.pdb
+D:\fighting\7\procp\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+D:\fighting\7\procp\RGY\RGY\obj\Debug\RGY.Form1.resources
+D:\fighting\7\procp\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+D:\fighting\7\procp\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+C:\Users\xuan\Desktop\procp\RGY\RGY\bin\Debug\RGY.exe.config
+C:\Users\xuan\Desktop\procp\RGY\RGY\obj\Debug\RGY.exe
+C:\Users\xuan\Desktop\procp\RGY\RGY\obj\Debug\RGY.pdb
+C:\Users\xuan\Desktop\procp\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+C:\Users\xuan\Desktop\procp\RGY\RGY\obj\Debug\RGY.Form1.resources
+C:\Users\xuan\Desktop\procp\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+C:\Users\xuan\Desktop\procp\RGY\RGY\obj\Debug\RGY.Type1.resources
+C:\Users\xuan\Desktop\procp\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+C:\Users\xuan\Desktop\procp\RGY\RGY\obj\Debug\RGY.Tpye3.resources
+C:\Users\xuan\Desktop\procp\RGY\RGY\obj\Debug\RGY.Type2.resources
+D:\fighting\8\procp\RGY\RGY\bin\Debug\RGY.exe.config
+D:\fighting\8\procp\RGY\RGY\obj\Debug\RGY.exe
+D:\fighting\8\procp\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+D:\fighting\8\procp\RGY\RGY\obj\Debug\RGY.Form1.resources
+D:\fighting\8\procp\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+D:\fighting\8\procp\RGY\RGY\obj\Debug\RGY.Tpye3.resources
+D:\fighting\8\procp\RGY\RGY\obj\Debug\RGY.Type1.resources
+D:\fighting\8\procp\RGY\RGY\obj\Debug\RGY.Type2.resources
+D:\fighting\8\procp\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+D:\fighting\8\procp\RGY\RGY\bin\Debug\RGY.exe
+D:\fighting\8\procp\RGY\RGY\bin\Debug\RGY.pdb
+D:\fighting\8\procp\RGY\RGY\bin\Debug\Adding New CR 2.exe
+D:\fighting\8\procp\RGY\RGY\bin\Debug\Adding New CR 3.exe
+D:\fighting\8\procp\RGY\RGY\bin\Debug\Adding New CR.exe
+D:\fighting\8\procp\RGY\RGY\bin\Debug\Adding New CR 2.pdb
+D:\fighting\8\procp\RGY\RGY\bin\Debug\Adding New CR 3.pdb
+D:\fighting\8\procp\RGY\RGY\bin\Debug\Adding New CR.pdb
+D:\fighting\8\procp\RGY\RGY\obj\Debug\RGY.pdb
+D:\dropbox\Dropbox\block7prop\hao\RGY\RGY\bin\Debug\RGY.exe.config
+D:\dropbox\Dropbox\block7prop\hao\RGY\RGY\obj\Debug\RGY.exe
+D:\dropbox\Dropbox\block7prop\hao\RGY\RGY\obj\Debug\RGY.pdb
+D:\dropbox\Dropbox\block7prop\hao\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\block7prop\hao\RGY\RGY\obj\Debug\RGY.Form1.resources
+D:\dropbox\Dropbox\block7prop\hao\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+D:\dropbox\Dropbox\block7prop\hao\RGY\RGY\obj\Debug\RGY.Tpye3.resources
+D:\dropbox\Dropbox\block7prop\hao\RGY\RGY\obj\Debug\RGY.Type1.resources
+D:\dropbox\Dropbox\block7prop\hao\RGY\RGY\obj\Debug\RGY.Type2.resources
+D:\dropbox\Dropbox\block7prop\hao\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+D:\dropbox\Dropbox\block7prop\hao\RGY\RGY\bin\Debug\RGY.exe
+D:\dropbox\Dropbox\block7prop\hao\RGY\RGY\bin\Debug\RGY.pdb
+D:\fighting\8\procp\hao\RGY\RGY\bin\Debug\RGY.exe.config
+D:\fighting\8\procp\hao\RGY\RGY\obj\Debug\RGY.exe
+D:\fighting\8\procp\hao\RGY\RGY\obj\Debug\RGY.pdb
+D:\fighting\8\procp\hao\RGY\RGY\bin\Debug\RGY.exe
+D:\fighting\8\procp\hao\RGY\RGY\bin\Debug\RGY.pdb
+D:\fighting\8\procp\hao\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+D:\fighting\8\procp\hao\RGY\RGY\obj\Debug\RGY.Form1.resources
+D:\fighting\8\procp\hao\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+D:\fighting\8\procp\hao\RGY\RGY\obj\Debug\RGY.Tpye3.resources
+D:\fighting\8\procp\hao\RGY\RGY\obj\Debug\RGY.Type1.resources
+D:\fighting\8\procp\hao\RGY\RGY\obj\Debug\RGY.Type2.resources
+D:\fighting\8\procp\hao\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+C:\Users\FAN LE\Dropbox\block7prop\hao\RGY\RGY\bin\Debug\RGY.exe.config
+C:\Users\FAN LE\Dropbox\block7prop\hao\RGY\RGY\obj\Debug\RGY.exe
+C:\Users\FAN LE\Dropbox\block7prop\hao\RGY\RGY\obj\Debug\RGY.pdb
+C:\Users\FAN LE\Dropbox\block7prop\hao\RGY\RGY\bin\Debug\RGY.exe
+C:\Users\FAN LE\Dropbox\block7prop\hao\RGY\RGY\bin\Debug\RGY.pdb
+C:\Users\FAN LE\Dropbox\block7prop\hao\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+C:\Users\FAN LE\Dropbox\block7prop\hao\RGY\RGY\obj\Debug\RGY.Form1.resources
+C:\Users\FAN LE\Dropbox\block7prop\hao\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+C:\Users\FAN LE\Dropbox\block7prop\hao\RGY\RGY\obj\Debug\RGY.Tpye3.resources
+C:\Users\FAN LE\Dropbox\block7prop\hao\RGY\RGY\obj\Debug\RGY.Type1.resources
+C:\Users\FAN LE\Dropbox\block7prop\hao\RGY\RGY\obj\Debug\RGY.Type2.resources
+C:\Users\FAN LE\Dropbox\block7prop\hao\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+C:\Users\Zhen\Desktop\1\hao\RGY\RGY\bin\Debug\RGY.exe.config
+C:\Users\Zhen\Desktop\1\hao\RGY\RGY\obj\Debug\RGY.exe
+C:\Users\Zhen\Desktop\1\hao\RGY\RGY\obj\Debug\RGY.pdb
+C:\Users\Zhen\Desktop\1\hao\RGY\RGY\bin\Debug\RGY.exe
+C:\Users\Zhen\Desktop\1\hao\RGY\RGY\bin\Debug\RGY.pdb
+C:\Users\Zhen\Desktop\1\hao\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+C:\Users\Zhen\Desktop\1\hao\RGY\RGY\obj\Debug\RGY.Form1.resources
+C:\Users\Zhen\Desktop\1\hao\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+C:\Users\Zhen\Desktop\1\hao\RGY\RGY\obj\Debug\RGY.Tpye3.resources
+C:\Users\Zhen\Desktop\1\hao\RGY\RGY\obj\Debug\RGY.Type1.resources
+C:\Users\Zhen\Desktop\1\hao\RGY\RGY\obj\Debug\RGY.Type2.resources
+C:\Users\Zhen\Desktop\1\hao\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+D:\fighting\8\procp\chen\RGY\RGY\bin\Debug\RGY.exe.config
+D:\fighting\8\procp\chen\RGY\RGY\obj\Debug\RGY.exe
+D:\fighting\8\procp\chen\RGY\RGY\obj\Debug\RGY.pdb
+D:\fighting\8\procp\chen\RGY\RGY\bin\Debug\RGY.exe
+D:\fighting\8\procp\chen\RGY\RGY\bin\Debug\RGY.pdb
+D:\fighting\8\procp\chen\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+D:\fighting\8\procp\chen\RGY\RGY\obj\Debug\RGY.Form1.resources
+D:\fighting\8\procp\chen\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+D:\fighting\8\procp\chen\RGY\RGY\obj\Debug\RGY.Tpye3.resources
+D:\fighting\8\procp\chen\RGY\RGY\obj\Debug\RGY.Type1.resources
+D:\fighting\8\procp\chen\RGY\RGY\obj\Debug\RGY.Type2.resources
+D:\fighting\8\procp\chen\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+C:\Users\Zhen\Desktop\3\RGY\RGY\bin\Debug\RGY.exe.config
+C:\Users\Zhen\Desktop\3\RGY\RGY\obj\Debug\RGY.exe
+C:\Users\Zhen\Desktop\3\RGY\RGY\obj\Debug\RGY.pdb
+C:\Users\Zhen\Desktop\3\RGY\RGY\bin\Debug\RGY.exe
+C:\Users\Zhen\Desktop\3\RGY\RGY\bin\Debug\RGY.pdb
+C:\Users\Zhen\Desktop\3\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+C:\Users\Zhen\Desktop\3\RGY\RGY\obj\Debug\RGY.Form1.resources
+C:\Users\Zhen\Desktop\3\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+C:\Users\Zhen\Desktop\3\RGY\RGY\obj\Debug\RGY.Tpye3.resources
+C:\Users\Zhen\Desktop\3\RGY\RGY\obj\Debug\RGY.Type1.resources
+C:\Users\Zhen\Desktop\3\RGY\RGY\obj\Debug\RGY.Type2.resources
+C:\Users\Zhen\Desktop\3\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+F:\Dropbox\Dropbox\PROCP\Leo\RGY\RGY\bin\Debug\RGY.exe.config
+F:\Dropbox\Dropbox\PROCP\Leo\RGY\RGY\obj\Debug\RGY.exe
+F:\Dropbox\Dropbox\PROCP\Leo\RGY\RGY\obj\Debug\RGY.pdb
+D:\dropbox\Dropbox\block7prop\Leo\RGY\RGY\bin\Debug\RGY.exe.config
+D:\dropbox\Dropbox\block7prop\Leo\RGY\RGY\obj\Debug\RGY.exe
+D:\dropbox\Dropbox\block7prop\Leo\RGY\RGY\obj\Debug\RGY.pdb
+D:\fighting\8\procp\chen\chen1.3\RGY\RGY\bin\Debug\RGY.exe.config
+D:\fighting\8\procp\chen\chen1.3\RGY\RGY\obj\Debug\RGY.exe
+D:\fighting\8\procp\chen\chen1.3\RGY\RGY\obj\Debug\RGY.pdb
+D:\fighting\8\procp\chen\chen1.3\RGY\RGY\bin\Debug\RGY.exe
+D:\fighting\8\procp\chen\chen1.3\RGY\RGY\bin\Debug\RGY.pdb
+D:\fighting\8\procp\chen\chen1.3\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+D:\fighting\8\procp\chen\chen1.3\RGY\RGY\obj\Debug\RGY.Form1.resources
+D:\fighting\8\procp\chen\chen1.3\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+D:\fighting\8\procp\chen\chen1.3\RGY\RGY\obj\Debug\RGY.Tpye3.resources
+D:\fighting\8\procp\chen\chen1.3\RGY\RGY\obj\Debug\RGY.Type1.resources
+D:\fighting\8\procp\chen\chen1.3\RGY\RGY\obj\Debug\RGY.Type2.resources
+D:\fighting\8\procp\chen\chen1.3\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+D:\dropbox\Dropbox\block7prop\hao\hao1.2\RGY\RGY\bin\Debug\RGY.exe.config
+D:\dropbox\Dropbox\block7prop\hao\hao1.2\RGY\RGY\obj\Debug\RGY.exe
+D:\dropbox\Dropbox\block7prop\hao\hao1.2\RGY\RGY\obj\Debug\RGY.pdb
+D:\dropbox\Dropbox\block7prop\hao\hao1.2\RGY\RGY\bin\Debug\RGY.exe
+D:\dropbox\Dropbox\block7prop\hao\hao1.2\RGY\RGY\bin\Debug\RGY.pdb
+D:\dropbox\Dropbox\block7prop\hao\hao1.2\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\block7prop\hao\hao1.2\RGY\RGY\obj\Debug\RGY.Form1.resources
+D:\dropbox\Dropbox\block7prop\hao\hao1.2\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+D:\dropbox\Dropbox\block7prop\hao\hao1.2\RGY\RGY\obj\Debug\RGY.Tpye3.resources
+D:\dropbox\Dropbox\block7prop\hao\hao1.2\RGY\RGY\obj\Debug\RGY.Type1.resources
+D:\dropbox\Dropbox\block7prop\hao\hao1.2\RGY\RGY\obj\Debug\RGY.Type2.resources
+D:\dropbox\Dropbox\block7prop\hao\hao1.2\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+C:\Users\FAN LE\Desktop\hao1.2\RGY\RGY\bin\Debug\RGY.exe.config
+C:\Users\FAN LE\Desktop\hao1.2\RGY\RGY\obj\Debug\RGY.exe
+C:\Users\FAN LE\Desktop\hao1.2\RGY\RGY\obj\Debug\RGY.pdb
+C:\Users\FAN LE\Desktop\hao1.2\RGY\RGY\bin\Debug\RGY.exe
+C:\Users\FAN LE\Desktop\hao1.2\RGY\RGY\bin\Debug\RGY.pdb
+C:\Users\FAN LE\Desktop\hao1.2\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+C:\Users\FAN LE\Desktop\hao1.2\RGY\RGY\obj\Debug\RGY.Form1.resources
+C:\Users\FAN LE\Desktop\hao1.2\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+C:\Users\FAN LE\Desktop\hao1.2\RGY\RGY\obj\Debug\RGY.Tpye3.resources
+C:\Users\FAN LE\Desktop\hao1.2\RGY\RGY\obj\Debug\RGY.Type1.resources
+C:\Users\FAN LE\Desktop\hao1.2\RGY\RGY\obj\Debug\RGY.Type2.resources
+C:\Users\FAN LE\Desktop\hao1.2\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+D:\dropbox\Dropbox\block7prop\fan\20140529V\RGY\RGY\bin\Debug\RGY.exe.config
+D:\dropbox\Dropbox\block7prop\fan\20140529V\RGY\RGY\obj\Debug\RGY.exe
+D:\dropbox\Dropbox\block7prop\fan\20140529V\RGY\RGY\obj\Debug\RGY.pdb
+D:\dropbox\Dropbox\block7prop\fan\20140529V\RGY\RGY\bin\Debug\RGY.exe
+D:\dropbox\Dropbox\block7prop\fan\20140529V\RGY\RGY\bin\Debug\RGY.pdb
+D:\dropbox\Dropbox\block7prop\fan\20140529V\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\block7prop\fan\20140529V\RGY\RGY\obj\Debug\RGY.Form1.resources
+D:\dropbox\Dropbox\block7prop\fan\20140529V\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+D:\dropbox\Dropbox\block7prop\fan\20140529V\RGY\RGY\obj\Debug\RGY.Tpye3.resources
+D:\dropbox\Dropbox\block7prop\fan\20140529V\RGY\RGY\obj\Debug\RGY.Type1.resources
+D:\dropbox\Dropbox\block7prop\fan\20140529V\RGY\RGY\obj\Debug\RGY.Type2.resources
+D:\dropbox\Dropbox\block7prop\fan\20140529V\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+D:\fighting\8\procp\hao\hao1.3\RGY\RGY\bin\Debug\RGY.exe.config
+D:\fighting\8\procp\hao\hao1.3\RGY\RGY\obj\Debug\RGY.exe
+D:\fighting\8\procp\hao\hao1.3\RGY\RGY\obj\Debug\RGY.pdb
+D:\fighting\8\procp\hao\hao1.3\RGY\RGY\bin\Debug\RGY.exe
+D:\fighting\8\procp\hao\hao1.3\RGY\RGY\bin\Debug\RGY.pdb
+D:\fighting\8\procp\hao\hao1.3\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+D:\fighting\8\procp\hao\hao1.3\RGY\RGY\obj\Debug\RGY.Form1.resources
+D:\fighting\8\procp\hao\hao1.3\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+D:\fighting\8\procp\hao\hao1.3\RGY\RGY\obj\Debug\RGY.Tpye3.resources
+D:\fighting\8\procp\hao\hao1.3\RGY\RGY\obj\Debug\RGY.Type1.resources
+D:\fighting\8\procp\hao\hao1.3\RGY\RGY\obj\Debug\RGY.Type2.resources
+D:\fighting\8\procp\hao\hao1.3\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+C:\Users\Zhen\Desktop\530\RGY\RGY\bin\Debug\RGY.exe.config
+C:\Users\Zhen\Desktop\530\RGY\RGY\obj\Debug\RGY.exe
+C:\Users\Zhen\Desktop\530\RGY\RGY\obj\Debug\RGY.pdb
+C:\Users\Zhen\Desktop\530\RGY\RGY\bin\Debug\RGY.exe
+C:\Users\Zhen\Desktop\530\RGY\RGY\bin\Debug\RGY.pdb
+C:\Users\Zhen\Desktop\530\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+C:\Users\Zhen\Desktop\530\RGY\RGY\obj\Debug\RGY.Form1.resources
+C:\Users\Zhen\Desktop\530\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+C:\Users\Zhen\Desktop\530\RGY\RGY\obj\Debug\RGY.Tpye3.resources
+C:\Users\Zhen\Desktop\530\RGY\RGY\obj\Debug\RGY.Type1.resources
+C:\Users\Zhen\Desktop\530\RGY\RGY\obj\Debug\RGY.Type2.resources
+C:\Users\Zhen\Desktop\530\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+C:\Users\MickyHao\Desktop\RGY\RGY\bin\Debug\RGY.exe.config
+C:\Users\MickyHao\Desktop\RGY\RGY\obj\Debug\RGY.exe
+C:\Users\MickyHao\Desktop\RGY\RGY\obj\Debug\RGY.pdb
+C:\Users\MickyHao\Desktop\RGY\RGY\bin\Debug\RGY.exe
+C:\Users\MickyHao\Desktop\RGY\RGY\bin\Debug\RGY.pdb
+C:\Users\MickyHao\Desktop\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+C:\Users\MickyHao\Desktop\RGY\RGY\obj\Debug\RGY.Form1.resources
+C:\Users\MickyHao\Desktop\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+C:\Users\MickyHao\Desktop\RGY\RGY\obj\Debug\RGY.Tpye3.resources
+C:\Users\MickyHao\Desktop\RGY\RGY\obj\Debug\RGY.Type1.resources
+C:\Users\MickyHao\Desktop\RGY\RGY\obj\Debug\RGY.Type2.resources
+C:\Users\MickyHao\Desktop\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+C:\Users\Zhen\Desktop\new\RGY\RGY\bin\Debug\RGY.exe.config
+C:\Users\Zhen\Desktop\new\RGY\RGY\obj\Debug\RGY.exe
+C:\Users\Zhen\Desktop\new\RGY\RGY\obj\Debug\RGY.pdb
+C:\Users\Zhen\Desktop\new\RGY\RGY\bin\Debug\RGY.exe
+C:\Users\Zhen\Desktop\new\RGY\RGY\bin\Debug\RGY.pdb
+C:\Users\Zhen\Desktop\new\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+C:\Users\Zhen\Desktop\new\RGY\RGY\obj\Debug\RGY.Form1.resources
+C:\Users\Zhen\Desktop\new\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+C:\Users\Zhen\Desktop\new\RGY\RGY\obj\Debug\RGY.Tpye3.resources
+C:\Users\Zhen\Desktop\new\RGY\RGY\obj\Debug\RGY.Type1.resources
+C:\Users\Zhen\Desktop\new\RGY\RGY\obj\Debug\RGY.Type2.resources
+C:\Users\Zhen\Desktop\new\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+D:\fighting\8\procp\hao\latest version 5.31\RGY\RGY\bin\Debug\RGY.exe.config
+D:\fighting\8\procp\hao\latest version 5.31\RGY\RGY\obj\Debug\RGY.exe
+D:\fighting\8\procp\hao\latest version 5.31\RGY\RGY\obj\Debug\RGY.pdb
+D:\fighting\8\procp\hao\latest version 5.31\RGY\RGY\bin\Debug\RGY.exe
+D:\fighting\8\procp\hao\latest version 5.31\RGY\RGY\bin\Debug\RGY.pdb
+D:\fighting\8\procp\hao\latest version 5.31\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+D:\fighting\8\procp\hao\latest version 5.31\RGY\RGY\obj\Debug\RGY.Form1.resources
+D:\fighting\8\procp\hao\latest version 5.31\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+D:\fighting\8\procp\hao\latest version 5.31\RGY\RGY\obj\Debug\RGY.Tpye3.resources
+D:\fighting\8\procp\hao\latest version 5.31\RGY\RGY\obj\Debug\RGY.Type1.resources
+D:\fighting\8\procp\hao\latest version 5.31\RGY\RGY\obj\Debug\RGY.Type2.resources
+D:\fighting\8\procp\hao\latest version 5.31\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+C:\Users\Zhen\Desktop\new\531\RGY\RGY\bin\Debug\RGY.exe.config
+C:\Users\Zhen\Desktop\new\531\RGY\RGY\obj\Debug\RGY.exe
+C:\Users\Zhen\Desktop\new\531\RGY\RGY\obj\Debug\RGY.pdb
+C:\Users\Zhen\Desktop\new\531\RGY\RGY\bin\Debug\RGY.exe
+C:\Users\Zhen\Desktop\new\531\RGY\RGY\bin\Debug\RGY.pdb
+C:\Users\Zhen\Desktop\new\531\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+C:\Users\Zhen\Desktop\new\531\RGY\RGY\obj\Debug\RGY.Form1.resources
+C:\Users\Zhen\Desktop\new\531\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+C:\Users\Zhen\Desktop\new\531\RGY\RGY\obj\Debug\RGY.Tpye3.resources
+C:\Users\Zhen\Desktop\new\531\RGY\RGY\obj\Debug\RGY.Type1.resources
+C:\Users\Zhen\Desktop\new\531\RGY\RGY\obj\Debug\RGY.Type2.resources
+C:\Users\Zhen\Desktop\new\531\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+D:\fighting\8\procp\hao\hao0601\RGY\RGY\bin\Debug\RGY.exe.config
+D:\fighting\8\procp\hao\hao0601\RGY\RGY\obj\Debug\RGY.exe
+D:\fighting\8\procp\hao\hao0601\RGY\RGY\obj\Debug\RGY.pdb
+D:\fighting\8\procp\hao\hao0601\RGY\RGY\bin\Debug\RGY.exe
+D:\fighting\8\procp\hao\hao0601\RGY\RGY\bin\Debug\RGY.pdb
+D:\fighting\8\procp\hao\hao0601\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+D:\fighting\8\procp\hao\hao0601\RGY\RGY\obj\Debug\RGY.Form1.resources
+D:\fighting\8\procp\hao\hao0601\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+D:\fighting\8\procp\hao\hao0601\RGY\RGY\obj\Debug\RGY.Tpye3.resources
+D:\fighting\8\procp\hao\hao0601\RGY\RGY\obj\Debug\RGY.Type1.resources
+D:\fighting\8\procp\hao\hao0601\RGY\RGY\obj\Debug\RGY.Type2.resources
+D:\fighting\8\procp\hao\hao0601\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+C:\Users\FAN LE\Desktop\hao0601\RGY\RGY\bin\Debug\RGY.exe.config
+C:\Users\FAN LE\Desktop\hao0601\RGY\RGY\obj\Debug\RGY.exe
+C:\Users\FAN LE\Desktop\hao0601\RGY\RGY\obj\Debug\RGY.pdb
+C:\Users\FAN LE\Desktop\hao0601\RGY\RGY\bin\Debug\RGY.exe
+C:\Users\FAN LE\Desktop\hao0601\RGY\RGY\bin\Debug\RGY.pdb
+C:\Users\FAN LE\Desktop\hao0601\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+C:\Users\FAN LE\Desktop\hao0601\RGY\RGY\obj\Debug\RGY.Form1.resources
+C:\Users\FAN LE\Desktop\hao0601\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+C:\Users\FAN LE\Desktop\hao0601\RGY\RGY\obj\Debug\RGY.Tpye3.resources
+C:\Users\FAN LE\Desktop\hao0601\RGY\RGY\obj\Debug\RGY.Type1.resources
+C:\Users\FAN LE\Desktop\hao0601\RGY\RGY\obj\Debug\RGY.Type2.resources
+C:\Users\FAN LE\Desktop\hao0601\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache
+D:\dropbox\Dropbox\block7prop\fan\06.01\RGY\RGY\bin\Debug\RGY.exe.config
+D:\dropbox\Dropbox\block7prop\fan\06.01\RGY\RGY\obj\Debug\RGY.exe
+D:\dropbox\Dropbox\block7prop\fan\06.01\RGY\RGY\obj\Debug\RGY.pdb
+C:\Users\Zhen\Desktop\RGY\RGY\obj\Debug\RGY.Tpye3.resources
+C:\Users\Zhen\Desktop\RGY\RGY\obj\Debug\RGY.Type1.resources
+C:\Users\Zhen\Desktop\RGY\RGY\obj\Debug\RGY.Type2.resources
+D:\fighting\8\procp\hao\hao0603\RGY\RGY\bin\Debug\RGY.exe.config
+D:\fighting\8\procp\hao\hao0603\RGY\RGY\obj\Debug\RGY.exe
+D:\fighting\8\procp\hao\hao0603\RGY\RGY\obj\Debug\RGY.pdb
+D:\fighting\8\procp\hao\hao0603\RGY\RGY\bin\Debug\RGY.exe
+D:\fighting\8\procp\hao\hao0603\RGY\RGY\bin\Debug\RGY.pdb
+D:\fighting\8\procp\hao\hao0603\RGY\RGY\obj\Debug\RGY.csprojResolveAssemblyReference.cache
+D:\fighting\8\procp\hao\hao0603\RGY\RGY\obj\Debug\RGY.Form1.resources
+D:\fighting\8\procp\hao\hao0603\RGY\RGY\obj\Debug\RGY.Properties.Resources.resources
+D:\fighting\8\procp\hao\hao0603\RGY\RGY\obj\Debug\RGY.Tpye3.resources
+D:\fighting\8\procp\hao\hao0603\RGY\RGY\obj\Debug\RGY.Type1.resources
+D:\fighting\8\procp\hao\hao0603\RGY\RGY\obj\Debug\RGY.Type2.resources
+D:\fighting\8\procp\hao\hao0603\RGY\RGY\obj\Debug\RGY.csproj.GenerateResource.Cache

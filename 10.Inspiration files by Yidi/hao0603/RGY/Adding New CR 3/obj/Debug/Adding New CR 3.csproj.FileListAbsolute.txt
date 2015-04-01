@@ -1,0 +1,72 @@
+G:\DropBox\Dropbox\PROCP\Application\RGY\Adding New CR 3\bin\Debug\Adding New CR 3.exe.config
+G:\DropBox\Dropbox\PROCP\Application\RGY\Adding New CR 3\bin\Debug\Adding New CR 3.exe
+G:\DropBox\Dropbox\PROCP\Application\RGY\Adding New CR 3\bin\Debug\Adding New CR 3.pdb
+G:\DropBox\Dropbox\PROCP\Application\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.csprojResolveAssemblyReference.cache
+G:\DropBox\Dropbox\PROCP\Application\RGY\Adding New CR 3\obj\Debug\Adding_New_CR_3.Form4.resources
+G:\DropBox\Dropbox\PROCP\Application\RGY\Adding New CR 3\obj\Debug\Adding_New_CR_3.Properties.Resources.resources
+G:\DropBox\Dropbox\PROCP\Application\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.csproj.GenerateResource.Cache
+G:\DropBox\Dropbox\PROCP\Application\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.exe
+G:\DropBox\Dropbox\PROCP\Application\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.pdb
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\Adding New CR 3\bin\Debug\Adding New CR 3.exe.config
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\Adding New CR 3\bin\Debug\Adding New CR 3.exe
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\Adding New CR 3\bin\Debug\Adding New CR 3.pdb
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.csprojResolveAssemblyReference.cache
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\Adding New CR 3\obj\Debug\Adding_New_CR_3.Form4.resources
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\Adding New CR 3\obj\Debug\Adding_New_CR_3.Properties.Resources.resources
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.csproj.GenerateResource.Cache
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.exe
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.pdb
+F:\Dropbox\Dropbox\PROCP\Application\RGY\Adding New CR 3\bin\Debug\Adding New CR 3.exe.config
+F:\Dropbox\Dropbox\PROCP\Application\RGY\Adding New CR 3\bin\Debug\Adding New CR 3.exe
+F:\Dropbox\Dropbox\PROCP\Application\RGY\Adding New CR 3\bin\Debug\Adding New CR 3.pdb
+F:\Dropbox\Dropbox\PROCP\Application\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.csprojResolveAssemblyReference.cache
+F:\Dropbox\Dropbox\PROCP\Application\RGY\Adding New CR 3\obj\Debug\Adding_New_CR_3.Form4.resources
+F:\Dropbox\Dropbox\PROCP\Application\RGY\Adding New CR 3\obj\Debug\Adding_New_CR_3.Properties.Resources.resources
+F:\Dropbox\Dropbox\PROCP\Application\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.csproj.GenerateResource.Cache
+F:\Dropbox\Dropbox\PROCP\Application\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.exe
+F:\Dropbox\Dropbox\PROCP\Application\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.pdb
+D:\dropbox\Dropbox\block7prop\Application\RGY\Adding New CR 3\bin\Debug\Adding New CR 3.exe.config
+D:\dropbox\Dropbox\block7prop\Application\RGY\Adding New CR 3\bin\Debug\Adding New CR 3.exe
+D:\dropbox\Dropbox\block7prop\Application\RGY\Adding New CR 3\bin\Debug\Adding New CR 3.pdb
+D:\dropbox\Dropbox\block7prop\Application\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\block7prop\Application\RGY\Adding New CR 3\obj\Debug\Adding_New_CR_3.Form4.resources
+D:\dropbox\Dropbox\block7prop\Application\RGY\Adding New CR 3\obj\Debug\Adding_New_CR_3.Properties.Resources.resources
+D:\dropbox\Dropbox\block7prop\Application\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.csproj.GenerateResource.Cache
+D:\dropbox\Dropbox\block7prop\Application\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.exe
+D:\dropbox\Dropbox\block7prop\Application\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.pdb
+C:\Users\Zhen\Desktop\RGY\Adding New CR 3\bin\Debug\Adding New CR 3.exe.config
+C:\Users\Zhen\Desktop\RGY\Adding New CR 3\bin\Debug\Adding New CR 3.exe
+C:\Users\Zhen\Desktop\RGY\Adding New CR 3\bin\Debug\Adding New CR 3.pdb
+C:\Users\Zhen\Desktop\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.csprojResolveAssemblyReference.cache
+C:\Users\Zhen\Desktop\RGY\Adding New CR 3\obj\Debug\Adding_New_CR_3.Form4.resources
+C:\Users\Zhen\Desktop\RGY\Adding New CR 3\obj\Debug\Adding_New_CR_3.Properties.Resources.resources
+C:\Users\Zhen\Desktop\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.csproj.GenerateResource.Cache
+C:\Users\Zhen\Desktop\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.exe
+C:\Users\Zhen\Desktop\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.pdb
+F:\RGY\Adding New CR 3\bin\Debug\Adding New CR 3.exe.config
+F:\RGY\Adding New CR 3\bin\Debug\Adding New CR 3.exe
+F:\RGY\Adding New CR 3\bin\Debug\Adding New CR 3.pdb
+F:\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.csprojResolveAssemblyReference.cache
+F:\RGY\Adding New CR 3\obj\Debug\Adding_New_CR_3.Form4.resources
+F:\RGY\Adding New CR 3\obj\Debug\Adding_New_CR_3.Properties.Resources.resources
+F:\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.csproj.GenerateResource.Cache
+F:\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.exe
+F:\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.pdb
+D:\fighting\7\procp\RGY\Adding New CR 3\bin\Debug\Adding New CR 3.exe.config
+D:\fighting\7\procp\RGY\Adding New CR 3\bin\Debug\Adding New CR 3.exe
+D:\fighting\7\procp\RGY\Adding New CR 3\bin\Debug\Adding New CR 3.pdb
+D:\fighting\7\procp\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.csprojResolveAssemblyReference.cache
+D:\fighting\7\procp\RGY\Adding New CR 3\obj\Debug\Adding_New_CR_3.Form4.resources
+D:\fighting\7\procp\RGY\Adding New CR 3\obj\Debug\Adding_New_CR_3.Properties.Resources.resources
+D:\fighting\7\procp\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.csproj.GenerateResource.Cache
+D:\fighting\7\procp\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.exe
+D:\fighting\7\procp\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.pdb
+C:\Users\xuan\Desktop\procp\RGY\Adding New CR 3\bin\Debug\Adding New CR 3.exe.config
+C:\Users\xuan\Desktop\procp\RGY\Adding New CR 3\bin\Debug\Adding New CR 3.exe
+C:\Users\xuan\Desktop\procp\RGY\Adding New CR 3\bin\Debug\Adding New CR 3.pdb
+C:\Users\xuan\Desktop\procp\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.csprojResolveAssemblyReference.cache
+C:\Users\xuan\Desktop\procp\RGY\Adding New CR 3\obj\Debug\Adding_New_CR_3.Form4.resources
+C:\Users\xuan\Desktop\procp\RGY\Adding New CR 3\obj\Debug\Adding_New_CR_3.Properties.Resources.resources
+C:\Users\xuan\Desktop\procp\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.csproj.GenerateResource.Cache
+C:\Users\xuan\Desktop\procp\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.exe
+C:\Users\xuan\Desktop\procp\RGY\Adding New CR 3\obj\Debug\Adding New CR 3.pdb

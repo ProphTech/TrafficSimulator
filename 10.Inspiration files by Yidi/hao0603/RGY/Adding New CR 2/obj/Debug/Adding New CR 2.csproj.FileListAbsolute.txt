@@ -1,0 +1,63 @@
+F:\Dropbox\Dropbox\PROCP\Application\RGY\Adding New CR 2\bin\Debug\Adding New CR 2.exe.config
+F:\Dropbox\Dropbox\PROCP\Application\RGY\Adding New CR 2\bin\Debug\Adding New CR 2.exe
+F:\Dropbox\Dropbox\PROCP\Application\RGY\Adding New CR 2\bin\Debug\Adding New CR 2.pdb
+F:\Dropbox\Dropbox\PROCP\Application\RGY\Adding New CR 2\obj\Debug\Adding_New_CR_2.Form3.resources
+F:\Dropbox\Dropbox\PROCP\Application\RGY\Adding New CR 2\obj\Debug\Adding_New_CR_2.Properties.Resources.resources
+F:\Dropbox\Dropbox\PROCP\Application\RGY\Adding New CR 2\obj\Debug\Adding New CR 2.csproj.GenerateResource.Cache
+F:\Dropbox\Dropbox\PROCP\Application\RGY\Adding New CR 2\obj\Debug\Adding New CR 2.exe
+F:\Dropbox\Dropbox\PROCP\Application\RGY\Adding New CR 2\obj\Debug\Adding New CR 2.pdb
+G:\DropBox\Dropbox\PROCP\Application\RGY\Adding New CR 2\bin\Debug\Adding New CR 2.exe.config
+G:\DropBox\Dropbox\PROCP\Application\RGY\Adding New CR 2\bin\Debug\Adding New CR 2.exe
+G:\DropBox\Dropbox\PROCP\Application\RGY\Adding New CR 2\bin\Debug\Adding New CR 2.pdb
+G:\DropBox\Dropbox\PROCP\Application\RGY\Adding New CR 2\obj\Debug\Adding New CR 2.csprojResolveAssemblyReference.cache
+G:\DropBox\Dropbox\PROCP\Application\RGY\Adding New CR 2\obj\Debug\Adding_New_CR_2.Form3.resources
+G:\DropBox\Dropbox\PROCP\Application\RGY\Adding New CR 2\obj\Debug\Adding_New_CR_2.Properties.Resources.resources
+G:\DropBox\Dropbox\PROCP\Application\RGY\Adding New CR 2\obj\Debug\Adding New CR 2.csproj.GenerateResource.Cache
+G:\DropBox\Dropbox\PROCP\Application\RGY\Adding New CR 2\obj\Debug\Adding New CR 2.exe
+G:\DropBox\Dropbox\PROCP\Application\RGY\Adding New CR 2\obj\Debug\Adding New CR 2.pdb
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\Adding New CR 2\bin\Debug\Adding New CR 2.exe.config
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\Adding New CR 2\bin\Debug\Adding New CR 2.exe
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\Adding New CR 2\bin\Debug\Adding New CR 2.pdb
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\Adding New CR 2\obj\Debug\Adding New CR 2.csprojResolveAssemblyReference.cache
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\Adding New CR 2\obj\Debug\Adding_New_CR_2.Form3.resources
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\Adding New CR 2\obj\Debug\Adding_New_CR_2.Properties.Resources.resources
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\Adding New CR 2\obj\Debug\Adding New CR 2.csproj.GenerateResource.Cache
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\Adding New CR 2\obj\Debug\Adding New CR 2.exe
+C:\Users\xuan\Dropbox\TrafficLight Project\Application\RGY\Adding New CR 2\obj\Debug\Adding New CR 2.pdb
+F:\Dropbox\Dropbox\PROCP\Application\RGY\Adding New CR 2\obj\Debug\Adding New CR 2.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\block7prop\Application\RGY\Adding New CR 2\bin\Debug\Adding New CR 2.exe.config
+D:\dropbox\Dropbox\block7prop\Application\RGY\Adding New CR 2\bin\Debug\Adding New CR 2.exe
+D:\dropbox\Dropbox\block7prop\Application\RGY\Adding New CR 2\bin\Debug\Adding New CR 2.pdb
+D:\dropbox\Dropbox\block7prop\Application\RGY\Adding New CR 2\obj\Debug\Adding New CR 2.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\block7prop\Application\RGY\Adding New CR 2\obj\Debug\Adding_New_CR_2.Form3.resources
+D:\dropbox\Dropbox\block7prop\Application\RGY\Adding New CR 2\obj\Debug\Adding_New_CR_2.Properties.Resources.resources
+D:\dropbox\Dropbox\block7prop\Application\RGY\Adding New CR 2\obj\Debug\Adding New CR 2.csproj.GenerateResource.Cache
+D:\dropbox\Dropbox\block7prop\Application\RGY\Adding New CR 2\obj\Debug\Adding New CR 2.exe
+D:\dropbox\Dropbox\block7prop\Application\RGY\Adding New CR 2\obj\Debug\Adding New CR 2.pdb
+C:\Users\Zhen\Desktop\RGY\Adding New CR 2\bin\Debug\Adding New CR 2.exe.config
+C:\Users\Zhen\Desktop\RGY\Adding New CR 2\bin\Debug\Adding New CR 2.exe
+C:\Users\Zhen\Desktop\RGY\Adding New CR 2\bin\Debug\Adding New CR 2.pdb
+C:\Users\Zhen\Desktop\RGY\Adding New CR 2\obj\Debug\Adding New CR 2.csprojResolveAssemblyReference.cache
+C:\Users\Zhen\Desktop\RGY\Adding New CR 2\obj\Debug\Adding_New_CR_2.Form3.resources
+C:\Users\Zhen\Desktop\RGY\Adding New CR 2\obj\Debug\Adding_New_CR_2.Properties.Resources.resources
+C:\Users\Zhen\Desktop\RGY\Adding New CR 2\obj\Debug\Adding New CR 2.csproj.GenerateResource.Cache
+C:\Users\Zhen\Desktop\RGY\Adding New CR 2\obj\Debug\Adding New CR 2.exe
+C:\Users\Zhen\Desktop\RGY\Adding New CR 2\obj\Debug\Adding New CR 2.pdb
+F:\RGY\Adding New CR 2\bin\Debug\Adding New CR 2.exe.config
+F:\RGY\Adding New CR 2\bin\Debug\Adding New CR 2.exe
+F:\RGY\Adding New CR 2\bin\Debug\Adding New CR 2.pdb
+F:\RGY\Adding New CR 2\obj\Debug\Adding New CR 2.csprojResolveAssemblyReference.cache
+F:\RGY\Adding New CR 2\obj\Debug\Adding_New_CR_2.Form3.resources
+F:\RGY\Adding New CR 2\obj\Debug\Adding_New_CR_2.Properties.Resources.resources
+F:\RGY\Adding New CR 2\obj\Debug\Adding New CR 2.csproj.GenerateResource.Cache
+F:\RGY\Adding New CR 2\obj\Debug\Adding New CR 2.exe
+F:\RGY\Adding New CR 2\obj\Debug\Adding New CR 2.pdb
+C:\Users\xuan\Desktop\procp\RGY\Adding New CR 2\obj\Debug\Adding New CR 2.csprojResolveAssemblyReference.cache
+C:\Users\xuan\Desktop\procp\RGY\Adding New CR 2\obj\Debug\Adding_New_CR_2.Form3.resources
+C:\Users\xuan\Desktop\procp\RGY\Adding New CR 2\obj\Debug\Adding_New_CR_2.Properties.Resources.resources
+C:\Users\xuan\Desktop\procp\RGY\Adding New CR 2\obj\Debug\Adding New CR 2.csproj.GenerateResource.Cache
+C:\Users\xuan\Desktop\procp\RGY\Adding New CR 2\obj\Debug\Adding New CR 2.exe
+C:\Users\xuan\Desktop\procp\RGY\Adding New CR 2\bin\Debug\Adding New CR 2.exe.config
+C:\Users\xuan\Desktop\procp\RGY\Adding New CR 2\bin\Debug\Adding New CR 2.exe
+C:\Users\xuan\Desktop\procp\RGY\Adding New CR 2\bin\Debug\Adding New CR 2.pdb
+C:\Users\xuan\Desktop\procp\RGY\Adding New CR 2\obj\Debug\Adding New CR 2.pdb

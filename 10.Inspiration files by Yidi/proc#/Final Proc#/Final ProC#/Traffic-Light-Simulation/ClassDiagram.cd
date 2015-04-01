@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Traffic_Light_Simulation.Crossing">
+    <Position X="6.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAIBwAABQgBAAAQAAEAACBNAEAAgIABCACQAQ=</HashCode>
+      <FileName>Crossing.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="MyGroup" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Traffic_Light_Simulation.CrossingWithoutPedestarian">
+    <Position X="8.75" Y="6.5" Width="1.5" />
+    <InheritanceLine Type="Traffic_Light_Simulation.Crossing" FixedToPoint="true">
+      <Path>
+        <Point X="7.5" Y="6.536" />
+        <Point X="7.5" Y="7.312" />
+        <Point X="8.75" Y="7.312" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Crossing_withoutPedestarian.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Traffic_Light_Simulation.CrossingWithPedestarian">
+    <Position X="9.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Crossing_WithPedestarian.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Traffic_Light_Simulation.Group">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAgAAAAAgIAAAQAAAAAAAAAAQAAAAAAAQA=</HashCode>
+      <FileName>Group.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Traffic_Light_Simulation.Lane">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgKAAACQGBAABAgAFAEGBoAAABAAICjAABQA=</HashCode>
+      <FileName>Lane.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Tl" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="ListOfCars" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Traffic_Light_Simulation.MovingObject">
+    <Position X="15.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAgAAAAAAAAAEAAiAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>MovingObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Traffic_Light_Simulation.TrafficLight">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAaAAAAAAAAAJAAAAhAAAAEAAAAAABAAAAA=</HashCode>
+      <FileName>Traffic-light.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Traffic_Light_Simulation.TrafficSimulationGui">
+    <Position X="1.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ByWU1v2QUSAQcZOAokCpyBESaHl4sMAEEmAMASF4REE=</HashCode>
+      <FileName>Traffic Simulation.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_ourtraffic" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Traffic_Light_Simulation.Traffic">
+    <Position X="4.25" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAMACAIACABAAEAAAIAAAAAAAAAAAgAAABAAAAAAA=</HashCode>
+      <FileName>Traffic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
