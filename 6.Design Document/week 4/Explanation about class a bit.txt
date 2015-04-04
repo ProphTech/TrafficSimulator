@@ -1,0 +1,6 @@
+Given what the teacher said about the pedestrians, we can just assume those are also a type 
+of a lane, they also have a flow and their traffic light.So considering that we have a traffic light per
+lane we don't really need the traffic light class anymore, we set the intervals of the stages in The class
+Traffic light stage, which will contain a list of all lanes that are a part of this stage.
+I also proposed creating the class field, which will hold our crossing, might be unnecesary to be honest,
+but I wanted to see how it might look like.
