@@ -37,9 +37,9 @@
             // 
             // butt_OpenFile
             // 
-            this.butt_OpenFile.Location = new System.Drawing.Point(42, 170);
+            this.butt_OpenFile.Location = new System.Drawing.Point(42, 157);
             this.butt_OpenFile.Name = "butt_OpenFile";
-            this.butt_OpenFile.Size = new System.Drawing.Size(75, 38);
+            this.butt_OpenFile.Size = new System.Drawing.Size(75, 35);
             this.butt_OpenFile.TabIndex = 0;
             this.butt_OpenFile.Text = "button1";
             this.butt_OpenFile.UseVisualStyleBackColor = true;
@@ -47,26 +47,26 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(39, 142);
+            this.label1.Location = new System.Drawing.Point(39, 131);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(55, 13);
+            this.label1.Size = new System.Drawing.Size(65, 12);
             this.label1.TabIndex = 1;
             this.label1.Text = "Open File:";
             // 
             // butt_LoadFile
             // 
-            this.butt_LoadFile.Location = new System.Drawing.Point(168, 170);
+            this.butt_LoadFile.Location = new System.Drawing.Point(168, 157);
             this.butt_LoadFile.Name = "butt_LoadFile";
-            this.butt_LoadFile.Size = new System.Drawing.Size(75, 38);
+            this.butt_LoadFile.Size = new System.Drawing.Size(75, 35);
             this.butt_LoadFile.TabIndex = 2;
             this.butt_LoadFile.UseVisualStyleBackColor = true;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(165, 142);
+            this.label2.Location = new System.Drawing.Point(165, 131);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(83, 13);
+            this.label2.Size = new System.Drawing.Size(95, 12);
             this.label2.TabIndex = 3;
             this.label2.Text = "New Simulation:";
             // 
@@ -74,7 +74,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(29, 60);
+            this.label3.Location = new System.Drawing.Point(29, 55);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(197, 20);
             this.label3.TabIndex = 4;
@@ -82,9 +82,9 @@
             // 
             // MainScreen
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(292, 273);
+            this.ClientSize = new System.Drawing.Size(292, 252);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.butt_LoadFile);
@@ -92,6 +92,7 @@
             this.Controls.Add(this.butt_OpenFile);
             this.Name = "MainScreen";
             this.Text = "Main Screen";
+            this.Load += new System.EventHandler(this.MainScreen_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
