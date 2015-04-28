@@ -83,11 +83,6 @@
             this.lblStopWatch = new System.Windows.Forms.Label();
             this.label_info = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.panel_statisctics = new System.Windows.Forms.Panel();
-            this.richTextBox_Statistics = new System.Windows.Forms.RichTextBox();
-            this.panel_maximize = new System.Windows.Forms.Panel();
-            this.btn_maximize_Close = new System.Windows.Forms.Button();
-            this.zoomPB = new System.Windows.Forms.PictureBox();
             this.OurTrafficPBox = new System.Windows.Forms.PictureBox();
             this.newToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.saveToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -110,6 +105,11 @@
             this.printDialog = new System.Windows.Forms.PrintDialog();
             this.printPreviewDialog = new System.Windows.Forms.PrintPreviewDialog();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.btn_maximize_Close = new System.Windows.Forms.Button();
+            this.panel_maximize = new System.Windows.Forms.Panel();
+            this.panel_statisctics = new System.Windows.Forms.Panel();
+            this.zoomPB = new System.Windows.Forms.PictureBox();
+            this.richTextBox_Statistics = new System.Windows.Forms.RichTextBox();
             this.menuStrip1.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.tab_page.SuspendLayout();
@@ -120,10 +120,10 @@
             this.group_BoxCar.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.panel1.SuspendLayout();
-            this.panel_statisctics.SuspendLayout();
-            this.panel_maximize.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.zoomPB)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.OurTrafficPBox)).BeginInit();
+            this.panel_maximize.SuspendLayout();
+            this.panel_statisctics.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.zoomPB)).BeginInit();
             this.SuspendLayout();
             // 
             // menuStrip1
@@ -133,7 +133,7 @@
             this.statisticsToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1028, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(1028, 25);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -146,7 +146,7 @@
             this.saveAsToolStripMenuItem,
             this.exitToolStripMenuItem1});
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
-            this.fileToolStripMenuItem.Size = new System.Drawing.Size(37, 20);
+            this.fileToolStripMenuItem.Size = new System.Drawing.Size(39, 21);
             this.fileToolStripMenuItem.Text = "&File";
             this.fileToolStripMenuItem.Click += new System.EventHandler(this.fileToolStripMenuItem_Click);
             // 
@@ -154,7 +154,7 @@
             // 
             this.newToolStripMenuItem1.Image = ((System.Drawing.Image)(resources.GetObject("newToolStripMenuItem1.Image")));
             this.newToolStripMenuItem1.Name = "newToolStripMenuItem1";
-            this.newToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.newToolStripMenuItem1.Size = new System.Drawing.Size(121, 22);
             this.newToolStripMenuItem1.Text = "&New";
             this.newToolStripMenuItem1.Click += new System.EventHandler(this.newToolStripMenuItem1_Click);
             // 
@@ -162,7 +162,7 @@
             // 
             this.openToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("openToolStripMenuItem.Image")));
             this.openToolStripMenuItem.Name = "openToolStripMenuItem";
-            this.openToolStripMenuItem.Size = new System.Drawing.Size(114, 22);
+            this.openToolStripMenuItem.Size = new System.Drawing.Size(121, 22);
             this.openToolStripMenuItem.Text = "&Open";
             this.openToolStripMenuItem.Click += new System.EventHandler(this.openToolStripMenuItem_Click);
             // 
@@ -170,21 +170,21 @@
             // 
             this.saveToolStripMenuItem3.Image = ((System.Drawing.Image)(resources.GetObject("saveToolStripMenuItem3.Image")));
             this.saveToolStripMenuItem3.Name = "saveToolStripMenuItem3";
-            this.saveToolStripMenuItem3.Size = new System.Drawing.Size(114, 22);
+            this.saveToolStripMenuItem3.Size = new System.Drawing.Size(121, 22);
             this.saveToolStripMenuItem3.Text = "&Save";
             this.saveToolStripMenuItem3.Click += new System.EventHandler(this.saveToolStripMenuItem3_Click);
             // 
             // saveAsToolStripMenuItem
             // 
             this.saveAsToolStripMenuItem.Name = "saveAsToolStripMenuItem";
-            this.saveAsToolStripMenuItem.Size = new System.Drawing.Size(114, 22);
+            this.saveAsToolStripMenuItem.Size = new System.Drawing.Size(121, 22);
             this.saveAsToolStripMenuItem.Text = "Save As";
             // 
             // exitToolStripMenuItem1
             // 
             this.exitToolStripMenuItem1.Image = ((System.Drawing.Image)(resources.GetObject("exitToolStripMenuItem1.Image")));
             this.exitToolStripMenuItem1.Name = "exitToolStripMenuItem1";
-            this.exitToolStripMenuItem1.Size = new System.Drawing.Size(114, 22);
+            this.exitToolStripMenuItem1.Size = new System.Drawing.Size(121, 22);
             this.exitToolStripMenuItem1.Text = "&Exit";
             // 
             // statisticsToolStripMenuItem
@@ -193,30 +193,30 @@
             this.previewStatisticToolStripMenuItem,
             this.printStatisticToolStripMenuItem});
             this.statisticsToolStripMenuItem.Name = "statisticsToolStripMenuItem";
-            this.statisticsToolStripMenuItem.Size = new System.Drawing.Size(65, 20);
+            this.statisticsToolStripMenuItem.Size = new System.Drawing.Size(70, 21);
             this.statisticsToolStripMenuItem.Text = "Statistics";
             this.statisticsToolStripMenuItem.Click += new System.EventHandler(this.statisticsToolStripMenuItem_Click);
             // 
             // previewStatisticToolStripMenuItem
             // 
             this.previewStatisticToolStripMenuItem.Name = "previewStatisticToolStripMenuItem";
-            this.previewStatisticToolStripMenuItem.Size = new System.Drawing.Size(159, 22);
+            this.previewStatisticToolStripMenuItem.Size = new System.Drawing.Size(168, 22);
             this.previewStatisticToolStripMenuItem.Text = "Preview Statistic";
             this.previewStatisticToolStripMenuItem.Click += new System.EventHandler(this.previewStatisticToolStripMenuItem_Click);
             // 
             // printStatisticToolStripMenuItem
             // 
             this.printStatisticToolStripMenuItem.Name = "printStatisticToolStripMenuItem";
-            this.printStatisticToolStripMenuItem.Size = new System.Drawing.Size(159, 22);
+            this.printStatisticToolStripMenuItem.Size = new System.Drawing.Size(168, 22);
             this.printStatisticToolStripMenuItem.Text = "Print Statistic";
             this.printStatisticToolStripMenuItem.Click += new System.EventHandler(this.printStatisticToolStripMenuItem_Click);
             // 
             // groupBox1
             // 
             this.groupBox1.Controls.Add(this.tab_page);
-            this.groupBox1.Location = new System.Drawing.Point(0, 27);
+            this.groupBox1.Location = new System.Drawing.Point(0, 25);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(174, 436);
+            this.groupBox1.Size = new System.Drawing.Size(174, 402);
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             // 
@@ -224,10 +224,10 @@
             // 
             this.tab_page.Controls.Add(this.tab_Toolbox);
             this.tab_page.Controls.Add(this.tab_Edit);
-            this.tab_page.Location = new System.Drawing.Point(3, 16);
+            this.tab_page.Location = new System.Drawing.Point(3, 15);
             this.tab_page.Name = "tab_page";
             this.tab_page.SelectedIndex = 0;
-            this.tab_page.Size = new System.Drawing.Size(171, 420);
+            this.tab_page.Size = new System.Drawing.Size(171, 388);
             this.tab_page.TabIndex = 0;
             this.tab_page.Selected += new System.Windows.Forms.TabControlEventHandler(this.tab_page_Selected);
             // 
@@ -238,7 +238,7 @@
             this.tab_Toolbox.Location = new System.Drawing.Point(4, 22);
             this.tab_Toolbox.Name = "tab_Toolbox";
             this.tab_Toolbox.Padding = new System.Windows.Forms.Padding(3);
-            this.tab_Toolbox.Size = new System.Drawing.Size(163, 394);
+            this.tab_Toolbox.Size = new System.Drawing.Size(163, 362);
             this.tab_Toolbox.TabIndex = 0;
             this.tab_Toolbox.Text = "ToolBox";
             // 
@@ -269,7 +269,7 @@
             this.toolStripSeparator7});
             this.toolStrip1.Location = new System.Drawing.Point(3, 3);
             this.toolStrip1.Name = "toolStrip1";
-            this.toolStrip1.Size = new System.Drawing.Size(156, 388);
+            this.toolStrip1.Size = new System.Drawing.Size(156, 356);
             this.toolStrip1.TabIndex = 0;
             this.toolStrip1.Text = "toolStrip1";
             // 
@@ -302,7 +302,7 @@
             // 
             this.withPedesToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("withPedesToolStripMenuItem.Image")));
             this.withPedesToolStripMenuItem.Name = "withPedesToolStripMenuItem";
-            this.withPedesToolStripMenuItem.Size = new System.Drawing.Size(175, 22);
+            this.withPedesToolStripMenuItem.Size = new System.Drawing.Size(186, 22);
             this.withPedesToolStripMenuItem.Text = "With Pedestrian";
             this.withPedesToolStripMenuItem.Click += new System.EventHandler(this.withPedesToolStripMenuItem_Click);
             // 
@@ -310,7 +310,7 @@
             // 
             this.withoutPedestrianToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("withoutPedestrianToolStripMenuItem.Image")));
             this.withoutPedestrianToolStripMenuItem.Name = "withoutPedestrianToolStripMenuItem";
-            this.withoutPedestrianToolStripMenuItem.Size = new System.Drawing.Size(175, 22);
+            this.withoutPedestrianToolStripMenuItem.Size = new System.Drawing.Size(186, 22);
             this.withoutPedestrianToolStripMenuItem.Text = "Without Pedestrian";
             this.withoutPedestrianToolStripMenuItem.Click += new System.EventHandler(this.withoutPedestrianToolStripMenuItem_Click);
             // 
@@ -351,7 +351,7 @@
             // 
             this.toolStripLabel3.Enabled = false;
             this.toolStripLabel3.Name = "toolStripLabel3";
-            this.toolStripLabel3.Size = new System.Drawing.Size(153, 15);
+            this.toolStripLabel3.Size = new System.Drawing.Size(153, 17);
             this.toolStripLabel3.Text = "Maximize";
             // 
             // btn_Maximize_Tool
@@ -373,7 +373,7 @@
             // 
             this.toolStripLabel4.Enabled = false;
             this.toolStripLabel4.Name = "toolStripLabel4";
-            this.toolStripLabel4.Size = new System.Drawing.Size(153, 15);
+            this.toolStripLabel4.Size = new System.Drawing.Size(153, 17);
             this.toolStripLabel4.Text = "Start Simulation";
             // 
             // btn_Start_Simulation
@@ -395,7 +395,7 @@
             // 
             this.toolStripLabel5.Enabled = false;
             this.toolStripLabel5.Name = "toolStripLabel5";
-            this.toolStripLabel5.Size = new System.Drawing.Size(153, 15);
+            this.toolStripLabel5.Size = new System.Drawing.Size(153, 17);
             this.toolStripLabel5.Text = "Stop simulation";
             // 
             // btn_Stop_simulation
@@ -418,7 +418,7 @@
             // 
             this.toolStripLabel6.Enabled = false;
             this.toolStripLabel6.Name = "toolStripLabel6";
-            this.toolStripLabel6.Size = new System.Drawing.Size(153, 15);
+            this.toolStripLabel6.Size = new System.Drawing.Size(153, 17);
             this.toolStripLabel6.Text = "Show Statistic";
             // 
             // btn_Show_statistics
@@ -443,7 +443,7 @@
             this.tab_Edit.Location = new System.Drawing.Point(4, 22);
             this.tab_Edit.Name = "tab_Edit";
             this.tab_Edit.Padding = new System.Windows.Forms.Padding(3);
-            this.tab_Edit.Size = new System.Drawing.Size(163, 394);
+            this.tab_Edit.Size = new System.Drawing.Size(163, 362);
             this.tab_Edit.TabIndex = 1;
             this.tab_Edit.Text = "Edit Option";
             // 
@@ -452,17 +452,17 @@
             this.group_Edit.BackColor = System.Drawing.Color.Gray;
             this.group_Edit.Controls.Add(this.button3);
             this.group_Edit.Controls.Add(this.group_BoxCar);
-            this.group_Edit.Location = new System.Drawing.Point(6, 21);
+            this.group_Edit.Location = new System.Drawing.Point(6, 19);
             this.group_Edit.Name = "group_Edit";
-            this.group_Edit.Size = new System.Drawing.Size(159, 367);
+            this.group_Edit.Size = new System.Drawing.Size(159, 339);
             this.group_Edit.TabIndex = 4;
             this.group_Edit.TabStop = false;
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(24, 283);
+            this.button3.Location = new System.Drawing.Point(24, 261);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(100, 23);
+            this.button3.Size = new System.Drawing.Size(100, 21);
             this.button3.TabIndex = 12;
             this.button3.Text = "Finish";
             this.button3.UseVisualStyleBackColor = true;
@@ -478,17 +478,17 @@
             this.group_BoxCar.Controls.Add(this.label5);
             this.group_BoxCar.Controls.Add(this.label1);
             this.group_BoxCar.Controls.Add(this.txt_Green);
-            this.group_BoxCar.Location = new System.Drawing.Point(0, 8);
+            this.group_BoxCar.Location = new System.Drawing.Point(0, 7);
             this.group_BoxCar.Name = "group_BoxCar";
-            this.group_BoxCar.Size = new System.Drawing.Size(150, 252);
+            this.group_BoxCar.Size = new System.Drawing.Size(150, 233);
             this.group_BoxCar.TabIndex = 11;
             this.group_BoxCar.TabStop = false;
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(77, 85);
+            this.button4.Location = new System.Drawing.Point(77, 78);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(47, 23);
+            this.button4.Size = new System.Drawing.Size(47, 21);
             this.button4.TabIndex = 17;
             this.button4.Text = "Set";
             this.button4.UseVisualStyleBackColor = true;
@@ -496,9 +496,9 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(45, 223);
+            this.button2.Location = new System.Drawing.Point(45, 206);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(47, 23);
+            this.button2.Size = new System.Drawing.Size(47, 21);
             this.button2.TabIndex = 16;
             this.button2.Text = "SET";
             this.button2.UseVisualStyleBackColor = true;
@@ -512,9 +512,9 @@
             "Group2 ",
             "Group3",
             "Group4"});
-            this.combolane.Location = new System.Drawing.Point(8, 19);
+            this.combolane.Location = new System.Drawing.Point(8, 18);
             this.combolane.Name = "combolane";
-            this.combolane.Size = new System.Drawing.Size(136, 21);
+            this.combolane.Size = new System.Drawing.Size(136, 20);
             this.combolane.TabIndex = 5;
             this.combolane.Text = "Group";
             this.combolane.SelectedIndexChanged += new System.EventHandler(this.combolane_SelectedIndexChanged);
@@ -523,42 +523,42 @@
             // combo_TrafficLight
             // 
             this.combo_TrafficLight.FormattingEnabled = true;
-            this.combo_TrafficLight.Location = new System.Drawing.Point(9, 148);
+            this.combo_TrafficLight.Location = new System.Drawing.Point(9, 137);
             this.combo_TrafficLight.Name = "combo_TrafficLight";
-            this.combo_TrafficLight.Size = new System.Drawing.Size(136, 21);
+            this.combo_TrafficLight.Size = new System.Drawing.Size(136, 20);
             this.combo_TrafficLight.TabIndex = 1;
             this.combo_TrafficLight.Text = "Lane";
             // 
             // txt_set_Car_number
             // 
-            this.txt_set_Car_number.Location = new System.Drawing.Point(24, 197);
+            this.txt_set_Car_number.Location = new System.Drawing.Point(24, 182);
             this.txt_set_Car_number.Name = "txt_set_Car_number";
-            this.txt_set_Car_number.Size = new System.Drawing.Size(100, 20);
+            this.txt_set_Car_number.Size = new System.Drawing.Size(100, 21);
             this.txt_set_Car_number.TabIndex = 15;
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(19, 181);
+            this.label5.Location = new System.Drawing.Point(19, 167);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(122, 13);
+            this.label5.Size = new System.Drawing.Size(137, 12);
             this.label5.TabIndex = 14;
             this.label5.Text = "Number of Cars on Lane";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(6, 62);
+            this.label1.Location = new System.Drawing.Point(6, 57);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(58, 13);
+            this.label1.Size = new System.Drawing.Size(65, 12);
             this.label1.TabIndex = 5;
             this.label1.Text = "Green time";
             // 
             // txt_Green
             // 
-            this.txt_Green.Location = new System.Drawing.Point(67, 59);
+            this.txt_Green.Location = new System.Drawing.Point(67, 54);
             this.txt_Green.Name = "txt_Green";
-            this.txt_Green.Size = new System.Drawing.Size(74, 20);
+            this.txt_Green.Size = new System.Drawing.Size(74, 21);
             this.txt_Green.TabIndex = 8;
             // 
             // groupBox2
@@ -566,9 +566,9 @@
             this.groupBox2.Controls.Add(this.lblStopWatch);
             this.groupBox2.Controls.Add(this.label_info);
             this.groupBox2.Controls.Add(this.panel1);
-            this.groupBox2.Location = new System.Drawing.Point(180, 27);
+            this.groupBox2.Location = new System.Drawing.Point(180, 25);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(848, 514);
+            this.groupBox2.Size = new System.Drawing.Size(848, 474);
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Traffic simulation";
@@ -588,7 +588,7 @@
             // 
             this.label_info.Location = new System.Drawing.Point(230, 2);
             this.label_info.Name = "label_info";
-            this.label_info.Size = new System.Drawing.Size(144, 17);
+            this.label_info.Size = new System.Drawing.Size(144, 16);
             this.label_info.TabIndex = 3;
             // 
             // panel1
@@ -597,67 +597,17 @@
             this.panel1.Controls.Add(this.panel_statisctics);
             this.panel1.Controls.Add(this.panel_maximize);
             this.panel1.Controls.Add(this.OurTrafficPBox);
-            this.panel1.Location = new System.Drawing.Point(6, 19);
+            this.panel1.Location = new System.Drawing.Point(6, 18);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(842, 489);
+            this.panel1.Size = new System.Drawing.Size(842, 451);
             this.panel1.TabIndex = 0;
-            // 
-            // panel_statisctics
-            // 
-            this.panel_statisctics.Controls.Add(this.richTextBox_Statistics);
-            this.panel_statisctics.Location = new System.Drawing.Point(115, 100);
-            this.panel_statisctics.Name = "panel_statisctics";
-            this.panel_statisctics.Size = new System.Drawing.Size(364, 310);
-            this.panel_statisctics.TabIndex = 5;
-            this.panel_statisctics.Visible = false;
-            // 
-            // richTextBox_Statistics
-            // 
-            this.richTextBox_Statistics.Location = new System.Drawing.Point(1, 0);
-            this.richTextBox_Statistics.Name = "richTextBox_Statistics";
-            this.richTextBox_Statistics.ReadOnly = true;
-            this.richTextBox_Statistics.Size = new System.Drawing.Size(361, 311);
-            this.richTextBox_Statistics.TabIndex = 0;
-            this.richTextBox_Statistics.Text = "";
-            // 
-            // panel_maximize
-            // 
-            this.panel_maximize.Controls.Add(this.btn_maximize_Close);
-            this.panel_maximize.Controls.Add(this.zoomPB);
-            this.panel_maximize.Location = new System.Drawing.Point(285, 125);
-            this.panel_maximize.Name = "panel_maximize";
-            this.panel_maximize.Padding = new System.Windows.Forms.Padding(5);
-            this.panel_maximize.Size = new System.Drawing.Size(334, 309);
-            this.panel_maximize.TabIndex = 4;
-            this.panel_maximize.Visible = false;
-            // 
-            // btn_maximize_Close
-            // 
-            this.btn_maximize_Close.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn_maximize_Close.BackgroundImage")));
-            this.btn_maximize_Close.Image = ((System.Drawing.Image)(resources.GetObject("btn_maximize_Close.Image")));
-            this.btn_maximize_Close.Location = new System.Drawing.Point(304, 16);
-            this.btn_maximize_Close.Name = "btn_maximize_Close";
-            this.btn_maximize_Close.Size = new System.Drawing.Size(28, 265);
-            this.btn_maximize_Close.TabIndex = 2;
-            this.btn_maximize_Close.UseVisualStyleBackColor = true;
-            this.btn_maximize_Close.Click += new System.EventHandler(this.btn_maximize_Close_Click);
-            // 
-            // zoomPB
-            // 
-            this.zoomPB.BackColor = System.Drawing.Color.Transparent;
-            this.zoomPB.Location = new System.Drawing.Point(7, 3);
-            this.zoomPB.Name = "zoomPB";
-            this.zoomPB.Size = new System.Drawing.Size(299, 303);
-            this.zoomPB.TabIndex = 1;
-            this.zoomPB.TabStop = false;
-            this.zoomPB.Paint += new System.Windows.Forms.PaintEventHandler(this.zoomPB_Paint);
             // 
             // OurTrafficPBox
             // 
             this.OurTrafficPBox.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.OurTrafficPBox.Location = new System.Drawing.Point(4, 3);
             this.OurTrafficPBox.Name = "OurTrafficPBox";
-            this.OurTrafficPBox.Size = new System.Drawing.Size(815, 610);
+            this.OurTrafficPBox.Size = new System.Drawing.Size(815, 563);
             this.OurTrafficPBox.TabIndex = 3;
             this.OurTrafficPBox.TabStop = false;
             this.OurTrafficPBox.Click += new System.EventHandler(this.OurTrafficPBox_Click);
@@ -756,10 +706,10 @@
             // labelShow
             // 
             this.labelShow.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelShow.Location = new System.Drawing.Point(3, 494);
+            this.labelShow.Location = new System.Drawing.Point(3, 456);
             this.labelShow.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.labelShow.Name = "labelShow";
-            this.labelShow.Size = new System.Drawing.Size(182, 24);
+            this.labelShow.Size = new System.Drawing.Size(182, 22);
             this.labelShow.TabIndex = 2;
             this.labelShow.Text = "Info";
             // 
@@ -803,11 +753,61 @@
             this.timer1.Interval = 1;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
+            // btn_maximize_Close
+            // 
+            this.btn_maximize_Close.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn_maximize_Close.BackgroundImage")));
+            this.btn_maximize_Close.Image = ((System.Drawing.Image)(resources.GetObject("btn_maximize_Close.Image")));
+            this.btn_maximize_Close.Location = new System.Drawing.Point(304, 15);
+            this.btn_maximize_Close.Name = "btn_maximize_Close";
+            this.btn_maximize_Close.Size = new System.Drawing.Size(28, 245);
+            this.btn_maximize_Close.TabIndex = 2;
+            this.btn_maximize_Close.UseVisualStyleBackColor = true;
+            this.btn_maximize_Close.Click += new System.EventHandler(this.btn_maximize_Close_Click);
+            // 
+            // panel_maximize
+            // 
+            this.panel_maximize.Controls.Add(this.btn_maximize_Close);
+            this.panel_maximize.Controls.Add(this.zoomPB);
+            this.panel_maximize.Location = new System.Drawing.Point(285, 115);
+            this.panel_maximize.Name = "panel_maximize";
+            this.panel_maximize.Padding = new System.Windows.Forms.Padding(5);
+            this.panel_maximize.Size = new System.Drawing.Size(334, 285);
+            this.panel_maximize.TabIndex = 4;
+            this.panel_maximize.Visible = false;
+            // 
+            // panel_statisctics
+            // 
+            this.panel_statisctics.Controls.Add(this.richTextBox_Statistics);
+            this.panel_statisctics.Location = new System.Drawing.Point(115, 92);
+            this.panel_statisctics.Name = "panel_statisctics";
+            this.panel_statisctics.Size = new System.Drawing.Size(364, 286);
+            this.panel_statisctics.TabIndex = 5;
+            this.panel_statisctics.Visible = false;
+            // 
+            // zoomPB
+            // 
+            this.zoomPB.BackColor = System.Drawing.Color.Transparent;
+            this.zoomPB.Location = new System.Drawing.Point(7, 3);
+            this.zoomPB.Name = "zoomPB";
+            this.zoomPB.Size = new System.Drawing.Size(299, 280);
+            this.zoomPB.TabIndex = 1;
+            this.zoomPB.TabStop = false;
+            this.zoomPB.Paint += new System.Windows.Forms.PaintEventHandler(this.zoomPB_Paint);
+            // 
+            // richTextBox_Statistics
+            // 
+            this.richTextBox_Statistics.Location = new System.Drawing.Point(1, 0);
+            this.richTextBox_Statistics.Name = "richTextBox_Statistics";
+            this.richTextBox_Statistics.ReadOnly = true;
+            this.richTextBox_Statistics.Size = new System.Drawing.Size(361, 287);
+            this.richTextBox_Statistics.TabIndex = 0;
+            this.richTextBox_Statistics.Text = "";
+            // 
             // TrafficSimulationGui
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1028, 538);
+            this.ClientSize = new System.Drawing.Size(1028, 497);
             this.Controls.Add(this.labelShow);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
@@ -832,10 +832,10 @@
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
             this.panel1.ResumeLayout(false);
-            this.panel_statisctics.ResumeLayout(false);
-            this.panel_maximize.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.zoomPB)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.OurTrafficPBox)).EndInit();
+            this.panel_maximize.ResumeLayout(false);
+            this.panel_statisctics.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.zoomPB)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -911,9 +911,6 @@
         private System.Windows.Forms.ToolStripMenuItem saveAsToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem1;
         private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.Panel panel_maximize;
-        private System.Windows.Forms.Button btn_maximize_Close;
-        private System.Windows.Forms.PictureBox zoomPB;
         private System.Windows.Forms.PictureBox OurTrafficPBox;
         private System.Windows.Forms.Label label_info;
         private System.Windows.Forms.PrintDialog printDialog;
@@ -921,10 +918,13 @@
         private System.Windows.Forms.ToolStripMenuItem statisticsToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem printStatisticToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem previewStatisticToolStripMenuItem;
-        private System.Windows.Forms.Panel panel_statisctics;
-        private System.Windows.Forms.RichTextBox richTextBox_Statistics;
         private System.Windows.Forms.Label lblStopWatch;
         private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.Panel panel_statisctics;
+        private System.Windows.Forms.RichTextBox richTextBox_Statistics;
+        private System.Windows.Forms.Panel panel_maximize;
+        private System.Windows.Forms.Button btn_maximize_Close;
+        private System.Windows.Forms.PictureBox zoomPB;
     }
 }
 

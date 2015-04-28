@@ -318,3 +318,12 @@ C:\Users\melissa\Desktop\proc#\Final Proc#\Final ProC#\Traffic-Light-Simulation\
 C:\Users\melissa\Desktop\proc#\Final Proc#\Final ProC#\Traffic-Light-Simulation\obj\Debug\Traffic_Light_Simulation.TrafficSimulationGui.resources
 C:\Users\melissa\Desktop\proc#\Final Proc#\Final ProC#\Traffic-Light-Simulation\obj\Debug\Traffic_Light_Simulation.Properties.Resources.resources
 C:\Users\melissa\Desktop\proc#\Final Proc#\Final ProC#\Traffic-Light-Simulation\obj\Debug\Traffic-Light-Simulation.csproj.GenerateResource.Cache
+E:\TUE FONTYS\Year 2\PROCP\TrafficSimulator\TrafficSimulator\10.Inspiration files by Yidi\proc#\Final Proc#\Final ProC#\Traffic-Light-Simulation\bin\Debug\Traffic-Light-Simulation.exe.config
+E:\TUE FONTYS\Year 2\PROCP\TrafficSimulator\TrafficSimulator\10.Inspiration files by Yidi\proc#\Final Proc#\Final ProC#\Traffic-Light-Simulation\obj\Debug\Traffic-Light-Simulation.exe
+E:\TUE FONTYS\Year 2\PROCP\TrafficSimulator\TrafficSimulator\10.Inspiration files by Yidi\proc#\Final Proc#\Final ProC#\Traffic-Light-Simulation\obj\Debug\Traffic-Light-Simulation.pdb
+E:\TUE FONTYS\Year 2\PROCP\TrafficSimulator\TrafficSimulator\10.Inspiration files by Yidi\proc#\Final Proc#\Final ProC#\Traffic-Light-Simulation\bin\Debug\Traffic-Light-Simulation.exe
+E:\TUE FONTYS\Year 2\PROCP\TrafficSimulator\TrafficSimulator\10.Inspiration files by Yidi\proc#\Final Proc#\Final ProC#\Traffic-Light-Simulation\bin\Debug\Traffic-Light-Simulation.pdb
+E:\TUE FONTYS\Year 2\PROCP\TrafficSimulator\TrafficSimulator\10.Inspiration files by Yidi\proc#\Final Proc#\Final ProC#\Traffic-Light-Simulation\obj\Debug\Traffic-Light-Simulation.csprojResolveAssemblyReference.cache
+E:\TUE FONTYS\Year 2\PROCP\TrafficSimulator\TrafficSimulator\10.Inspiration files by Yidi\proc#\Final Proc#\Final ProC#\Traffic-Light-Simulation\obj\Debug\Traffic_Light_Simulation.TrafficSimulationGui.resources
+E:\TUE FONTYS\Year 2\PROCP\TrafficSimulator\TrafficSimulator\10.Inspiration files by Yidi\proc#\Final Proc#\Final ProC#\Traffic-Light-Simulation\obj\Debug\Traffic_Light_Simulation.Properties.Resources.resources
+E:\TUE FONTYS\Year 2\PROCP\TrafficSimulator\TrafficSimulator\10.Inspiration files by Yidi\proc#\Final Proc#\Final ProC#\Traffic-Light-Simulation\obj\Debug\Traffic-Light-Simulation.csproj.GenerateResource.Cache
