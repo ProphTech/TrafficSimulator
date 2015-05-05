@@ -1,0 +1,52 @@
+J:\TrafficSimulator\!TrafficAdvisor_Prototypes!\Traffic_Advisor\Traffic_Advisor\bin\Debug\Traffic_Advisor.exe.config
+E:\TUE FONTYS\Year 2\PROCP\TrafficSimulator\TrafficSimulator\!TrafficAdvisor_Prototypes!\Traffic_Advisor\Traffic_Advisor\bin\Debug\Traffic_Advisor.exe.config
+E:\TUE FONTYS\Year 2\PROCP\Quarter 4\Week 1\Traffic_Advisor\Traffic_Advisor\bin\Debug\Traffic_Advisor.exe.config
+E:\TUE FONTYS\Year 2\PROCP\Quarter 4\Week 1\Traffic_Advisor\Traffic_Advisor\bin\Debug\Traffic_Advisor.exe
+E:\TUE FONTYS\Year 2\PROCP\Quarter 4\Week 1\Traffic_Advisor\Traffic_Advisor\bin\Debug\Traffic_Advisor.pdb
+E:\TUE FONTYS\Year 2\PROCP\Quarter 4\Week 1\Traffic_Advisor\Traffic_Advisor\obj\Debug\Traffic_Advisor.csprojResolveAssemblyReference.cache
+E:\TUE FONTYS\Year 2\PROCP\Quarter 4\Week 1\Traffic_Advisor\Traffic_Advisor\obj\Debug\Traffic_Advisor.MainScreen.resources
+E:\TUE FONTYS\Year 2\PROCP\Quarter 4\Week 1\Traffic_Advisor\Traffic_Advisor\obj\Debug\Traffic_Advisor.Project_Grid_Screen.resources
+E:\TUE FONTYS\Year 2\PROCP\Quarter 4\Week 1\Traffic_Advisor\Traffic_Advisor\obj\Debug\Traffic_Advisor.Properties.Resources.resources
+E:\TUE FONTYS\Year 2\PROCP\Quarter 4\Week 1\Traffic_Advisor\Traffic_Advisor\obj\Debug\Traffic_Advisor.TrafficLightSettings.resources
+E:\TUE FONTYS\Year 2\PROCP\Quarter 4\Week 1\Traffic_Advisor\Traffic_Advisor\obj\Debug\Traffic_Advisor.csproj.GenerateResource.Cache
+E:\TUE FONTYS\Year 2\PROCP\Quarter 4\Week 1\Traffic_Advisor\Traffic_Advisor\obj\Debug\Traffic_Advisor.exe
+E:\TUE FONTYS\Year 2\PROCP\Quarter 4\Week 1\Traffic_Advisor\Traffic_Advisor\obj\Debug\Traffic_Advisor.pdb
+E:\TUE FONTYS\Year 2\PROCP\Quarter 4\Week 1\Traffic_Advisor_revised version\Traffic_Advisor\bin\Debug\Traffic_Advisor.exe.config
+E:\TUE FONTYS\Year 2\PROCP\Quarter 4\Week 1\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.exe
+E:\TUE FONTYS\Year 2\PROCP\Quarter 4\Week 1\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.pdb
+E:\TUE FONTYS\Year 2\PROCP\Quarter 4\Week 1\Traffic_Advisor_revised version\Traffic_Advisor\bin\Debug\Traffic_Advisor.exe
+E:\TUE FONTYS\Year 2\PROCP\Quarter 4\Week 1\Traffic_Advisor_revised version\Traffic_Advisor\bin\Debug\Traffic_Advisor.pdb
+E:\TUE FONTYS\Year 2\PROCP\Quarter 4\Week 1\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.csprojResolveAssemblyReference.cache
+E:\TUE FONTYS\Year 2\PROCP\Quarter 4\Week 1\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.MainScreen.resources
+E:\TUE FONTYS\Year 2\PROCP\Quarter 4\Week 1\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.Project_Grid_Screen.resources
+E:\TUE FONTYS\Year 2\PROCP\Quarter 4\Week 1\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.Properties.Resources.resources
+E:\TUE FONTYS\Year 2\PROCP\Quarter 4\Week 1\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.TrafficLightSettings.resources
+E:\TUE FONTYS\Year 2\PROCP\Quarter 4\Week 1\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Traffic_Advisor_revised version\Traffic_Advisor\bin\Debug\Traffic_Advisor.exe.config
+C:\Users\Administrator\Desktop\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.exe
+C:\Users\Administrator\Desktop\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.pdb
+C:\Users\Administrator\Desktop\Traffic_Advisor_revised version\Traffic_Advisor\bin\Debug\Traffic_Advisor.exe
+C:\Users\Administrator\Desktop\Traffic_Advisor_revised version\Traffic_Advisor\bin\Debug\Traffic_Advisor.pdb
+C:\Users\Administrator\Desktop\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.MainScreen.resources
+C:\Users\Administrator\Desktop\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.Project_Grid_Screen.resources
+C:\Users\Administrator\Desktop\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.TrafficLightSettings.resources
+C:\Users\Administrator\Desktop\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.csproj.GenerateResource.Cache
+E:\TUE FONTYS\Year 2\PROCP\TrafficSimulator\TrafficSimulator\!TrafficAdvisor_Prototypes!\Traffic_Advisor_revised version\Traffic_Advisor\bin\Debug\Traffic_Advisor.exe.config
+E:\TUE FONTYS\Year 2\PROCP\TrafficSimulator\TrafficSimulator\!TrafficAdvisor_Prototypes!\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.exe
+E:\TUE FONTYS\Year 2\PROCP\TrafficSimulator\TrafficSimulator\!TrafficAdvisor_Prototypes!\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.pdb
+E:\TUE FONTYS\Year 2\PROCP\TrafficSimulator\TrafficSimulator\!TrafficAdvisor_Prototypes!\Traffic_Advisor_revised version\Traffic_Advisor\bin\Debug\Traffic_Advisor.exe
+E:\TUE FONTYS\Year 2\PROCP\TrafficSimulator\TrafficSimulator\!TrafficAdvisor_Prototypes!\Traffic_Advisor_revised version\Traffic_Advisor\bin\Debug\Traffic_Advisor.pdb
+E:\TUE FONTYS\Year 2\PROCP\TrafficSimulator\TrafficSimulator\!TrafficAdvisor_Prototypes!\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.csprojResolveAssemblyReference.cache
+E:\TUE FONTYS\Year 2\PROCP\TrafficSimulator\TrafficSimulator\!TrafficAdvisor_Prototypes!\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.MainScreen.resources
+E:\TUE FONTYS\Year 2\PROCP\TrafficSimulator\TrafficSimulator\!TrafficAdvisor_Prototypes!\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.Project_Grid_Screen.resources
+E:\TUE FONTYS\Year 2\PROCP\TrafficSimulator\TrafficSimulator\!TrafficAdvisor_Prototypes!\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.Properties.Resources.resources
+E:\TUE FONTYS\Year 2\PROCP\TrafficSimulator\TrafficSimulator\!TrafficAdvisor_Prototypes!\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.TrafficLightSettings.resources
+E:\TUE FONTYS\Year 2\PROCP\TrafficSimulator\TrafficSimulator\!TrafficAdvisor_Prototypes!\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.csproj.GenerateResource.Cache
+E:\TUE FONTYS\Year 2\PROCP\TrafficSimulator\TrafficSimulator\!TrafficAdvisor_Prototypes!\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.CrossingEditer.resources
+C:\Users\Administrator\Desktop\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.CrossingEditer.resources
+C:\Users\Administrator\Desktop\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.AlterFlow.resources
+C:\Users\Pesho\Desktop\Traffic_Advisor_revised version\Traffic_Advisor\bin\Debug\Traffic_Advisor.exe.config
+C:\Users\Pesho\Desktop\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.exe
+C:\Users\Pesho\Desktop\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.pdb
