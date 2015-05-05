@@ -47,6 +47,12 @@
     <Compile Include="Cell.cs" />
     <Compile Include="CrossingA.cs" />
     <Compile Include="CrossingB.cs" />
+    <Compile Include="CrossingEditer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrossingEditer.Designer.cs">
+      <DependentUpon>CrossingEditer.cs</DependentUpon>
+    </Compile>
     <Compile Include="Grid.cs" />
     <Compile Include="ProjectManager.cs" />
     <Compile Include="Connection.cs" />
@@ -73,6 +79,9 @@
     <Compile Include="TrafficLightSettings.Designer.cs">
       <DependentUpon>TrafficLightSettings.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="CrossingEditer.resx">
+      <DependentUpon>CrossingEditer.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MainScreen.resx">
       <DependentUpon>MainScreen.cs</DependentUpon>
     </EmbeddedResource>

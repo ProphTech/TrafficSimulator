@@ -83,6 +83,11 @@
             this.lblStopWatch = new System.Windows.Forms.Label();
             this.label_info = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.panel_statisctics = new System.Windows.Forms.Panel();
+            this.richTextBox_Statistics = new System.Windows.Forms.RichTextBox();
+            this.panel_maximize = new System.Windows.Forms.Panel();
+            this.btn_maximize_Close = new System.Windows.Forms.Button();
+            this.zoomPB = new System.Windows.Forms.PictureBox();
             this.OurTrafficPBox = new System.Windows.Forms.PictureBox();
             this.newToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.saveToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -105,11 +110,6 @@
             this.printDialog = new System.Windows.Forms.PrintDialog();
             this.printPreviewDialog = new System.Windows.Forms.PrintPreviewDialog();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.btn_maximize_Close = new System.Windows.Forms.Button();
-            this.panel_maximize = new System.Windows.Forms.Panel();
-            this.panel_statisctics = new System.Windows.Forms.Panel();
-            this.zoomPB = new System.Windows.Forms.PictureBox();
-            this.richTextBox_Statistics = new System.Windows.Forms.RichTextBox();
             this.menuStrip1.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.tab_page.SuspendLayout();
@@ -120,10 +120,10 @@
             this.group_BoxCar.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.OurTrafficPBox)).BeginInit();
-            this.panel_maximize.SuspendLayout();
             this.panel_statisctics.SuspendLayout();
+            this.panel_maximize.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.zoomPB)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.OurTrafficPBox)).BeginInit();
             this.SuspendLayout();
             // 
             // menuStrip1
@@ -602,6 +602,56 @@
             this.panel1.Size = new System.Drawing.Size(842, 451);
             this.panel1.TabIndex = 0;
             // 
+            // panel_statisctics
+            // 
+            this.panel_statisctics.Controls.Add(this.richTextBox_Statistics);
+            this.panel_statisctics.Controls.Add(this.zoomPB);
+            this.panel_statisctics.Location = new System.Drawing.Point(115, 92);
+            this.panel_statisctics.Name = "panel_statisctics";
+            this.panel_statisctics.Size = new System.Drawing.Size(364, 286);
+            this.panel_statisctics.TabIndex = 5;
+            this.panel_statisctics.Visible = false;
+            // 
+            // richTextBox_Statistics
+            // 
+            this.richTextBox_Statistics.Location = new System.Drawing.Point(1, 0);
+            this.richTextBox_Statistics.Name = "richTextBox_Statistics";
+            this.richTextBox_Statistics.ReadOnly = true;
+            this.richTextBox_Statistics.Size = new System.Drawing.Size(361, 287);
+            this.richTextBox_Statistics.TabIndex = 0;
+            this.richTextBox_Statistics.Text = "";
+            // 
+            // panel_maximize
+            // 
+            this.panel_maximize.Controls.Add(this.btn_maximize_Close);
+            this.panel_maximize.Location = new System.Drawing.Point(285, 115);
+            this.panel_maximize.Name = "panel_maximize";
+            this.panel_maximize.Padding = new System.Windows.Forms.Padding(5);
+            this.panel_maximize.Size = new System.Drawing.Size(334, 285);
+            this.panel_maximize.TabIndex = 4;
+            this.panel_maximize.Visible = false;
+            // 
+            // btn_maximize_Close
+            // 
+            this.btn_maximize_Close.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn_maximize_Close.BackgroundImage")));
+            this.btn_maximize_Close.Image = ((System.Drawing.Image)(resources.GetObject("btn_maximize_Close.Image")));
+            this.btn_maximize_Close.Location = new System.Drawing.Point(304, 15);
+            this.btn_maximize_Close.Name = "btn_maximize_Close";
+            this.btn_maximize_Close.Size = new System.Drawing.Size(28, 245);
+            this.btn_maximize_Close.TabIndex = 2;
+            this.btn_maximize_Close.UseVisualStyleBackColor = true;
+            this.btn_maximize_Close.Click += new System.EventHandler(this.btn_maximize_Close_Click);
+            // 
+            // zoomPB
+            // 
+            this.zoomPB.BackColor = System.Drawing.Color.Transparent;
+            this.zoomPB.Location = new System.Drawing.Point(111, 20);
+            this.zoomPB.Name = "zoomPB";
+            this.zoomPB.Size = new System.Drawing.Size(299, 280);
+            this.zoomPB.TabIndex = 1;
+            this.zoomPB.TabStop = false;
+            this.zoomPB.Paint += new System.Windows.Forms.PaintEventHandler(this.zoomPB_Paint);
+            // 
             // OurTrafficPBox
             // 
             this.OurTrafficPBox.BackColor = System.Drawing.SystemColors.ActiveCaption;
@@ -753,56 +803,6 @@
             this.timer1.Interval = 1;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
-            // btn_maximize_Close
-            // 
-            this.btn_maximize_Close.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn_maximize_Close.BackgroundImage")));
-            this.btn_maximize_Close.Image = ((System.Drawing.Image)(resources.GetObject("btn_maximize_Close.Image")));
-            this.btn_maximize_Close.Location = new System.Drawing.Point(304, 15);
-            this.btn_maximize_Close.Name = "btn_maximize_Close";
-            this.btn_maximize_Close.Size = new System.Drawing.Size(28, 245);
-            this.btn_maximize_Close.TabIndex = 2;
-            this.btn_maximize_Close.UseVisualStyleBackColor = true;
-            this.btn_maximize_Close.Click += new System.EventHandler(this.btn_maximize_Close_Click);
-            // 
-            // panel_maximize
-            // 
-            this.panel_maximize.Controls.Add(this.btn_maximize_Close);
-            this.panel_maximize.Controls.Add(this.zoomPB);
-            this.panel_maximize.Location = new System.Drawing.Point(285, 115);
-            this.panel_maximize.Name = "panel_maximize";
-            this.panel_maximize.Padding = new System.Windows.Forms.Padding(5);
-            this.panel_maximize.Size = new System.Drawing.Size(334, 285);
-            this.panel_maximize.TabIndex = 4;
-            this.panel_maximize.Visible = false;
-            // 
-            // panel_statisctics
-            // 
-            this.panel_statisctics.Controls.Add(this.richTextBox_Statistics);
-            this.panel_statisctics.Location = new System.Drawing.Point(115, 92);
-            this.panel_statisctics.Name = "panel_statisctics";
-            this.panel_statisctics.Size = new System.Drawing.Size(364, 286);
-            this.panel_statisctics.TabIndex = 5;
-            this.panel_statisctics.Visible = false;
-            // 
-            // zoomPB
-            // 
-            this.zoomPB.BackColor = System.Drawing.Color.Transparent;
-            this.zoomPB.Location = new System.Drawing.Point(7, 3);
-            this.zoomPB.Name = "zoomPB";
-            this.zoomPB.Size = new System.Drawing.Size(299, 280);
-            this.zoomPB.TabIndex = 1;
-            this.zoomPB.TabStop = false;
-            this.zoomPB.Paint += new System.Windows.Forms.PaintEventHandler(this.zoomPB_Paint);
-            // 
-            // richTextBox_Statistics
-            // 
-            this.richTextBox_Statistics.Location = new System.Drawing.Point(1, 0);
-            this.richTextBox_Statistics.Name = "richTextBox_Statistics";
-            this.richTextBox_Statistics.ReadOnly = true;
-            this.richTextBox_Statistics.Size = new System.Drawing.Size(361, 287);
-            this.richTextBox_Statistics.TabIndex = 0;
-            this.richTextBox_Statistics.Text = "";
-            // 
             // TrafficSimulationGui
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
@@ -832,10 +832,10 @@
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
             this.panel1.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.OurTrafficPBox)).EndInit();
-            this.panel_maximize.ResumeLayout(false);
             this.panel_statisctics.ResumeLayout(false);
+            this.panel_maximize.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.zoomPB)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.OurTrafficPBox)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 

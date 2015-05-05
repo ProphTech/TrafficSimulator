@@ -44,3 +44,4 @@ E:\TUE FONTYS\Year 2\PROCP\TrafficSimulator\TrafficSimulator\!TrafficAdvisor_Pro
 E:\TUE FONTYS\Year 2\PROCP\TrafficSimulator\TrafficSimulator\!TrafficAdvisor_Prototypes!\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.Properties.Resources.resources
 E:\TUE FONTYS\Year 2\PROCP\TrafficSimulator\TrafficSimulator\!TrafficAdvisor_Prototypes!\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.TrafficLightSettings.resources
 E:\TUE FONTYS\Year 2\PROCP\TrafficSimulator\TrafficSimulator\!TrafficAdvisor_Prototypes!\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.csproj.GenerateResource.Cache
+E:\TUE FONTYS\Year 2\PROCP\TrafficSimulator\TrafficSimulator\!TrafficAdvisor_Prototypes!\Traffic_Advisor_revised version\Traffic_Advisor\obj\Debug\Traffic_Advisor.CrossingEditer.resources

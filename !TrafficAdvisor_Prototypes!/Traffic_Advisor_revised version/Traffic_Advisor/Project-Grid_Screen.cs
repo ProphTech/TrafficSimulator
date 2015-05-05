@@ -101,6 +101,10 @@ namespace Traffic_Advisor
                 MessageBox.Show("You can not put the crossing here, it is occupied!");
                 return;
             }
+
+            CrossingEditer ce = new CrossingEditer(c);
+            ce.ShowDialog();
+
             pbGrid.Invalidate();
         }
 
@@ -131,10 +135,7 @@ namespace Traffic_Advisor
             pbGrid.Invalidate();
         }
 
-
-
-
-
+        #region
         private void mainScreenToolStripMenuItem_Click(object sender, EventArgs e)
         {}
 
@@ -154,8 +155,8 @@ namespace Traffic_Advisor
         {}
 
         private void pbtypeB_MouseClick(object sender, MouseEventArgs e)
-        {}
+        { }
+        #endregion
 
-        
     }
 }

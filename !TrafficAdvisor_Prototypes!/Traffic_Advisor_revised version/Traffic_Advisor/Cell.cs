@@ -11,7 +11,7 @@ using System.Windows.Forms;
 
 namespace Traffic_Advisor
 {
-    class Cell
+    public class Cell
     {
         //public string Type { get;private set; }
         public int X { get;private set; }

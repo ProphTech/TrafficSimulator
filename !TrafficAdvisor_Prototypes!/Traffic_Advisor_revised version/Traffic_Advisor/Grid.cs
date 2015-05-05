@@ -20,7 +20,7 @@ namespace Traffic_Advisor
         private Point Origin { get; set; }
         private Size GridCellSize { get; set; }
 
-        public List<Cell> Cells { get;private set; }
+        public Cell[,] Cells { get;private set; }
         
         public Grid(Point p,Size s,int v,int h)
         {
@@ -30,7 +30,7 @@ namespace Traffic_Advisor
             HorizontalCells=h;
             VerticalCells=v;
 
-            Cells = new List<Cell>();
+            Cells = new Cell[v, h];
         }
      
 
@@ -62,16 +62,17 @@ namespace Traffic_Advisor
         {
             foreach (Cell ce in Cells)
             {
-                if (ce.X == c.X && ce.Y == c.Y)
-                    return -1;
+                if (ce != null)
+                    if (ce.X == c.X && ce.Y == c.Y)
+                        return -1;
             }
-            Cells.Add(c);
+            Cells[c.X, c.Y] = c;
             return 1;
         }
 
         public void RemoveOneCell(Cell c)
         {
-            Cells.Remove(c);
+            Cells[c.X, c.Y] = null;
         }
 
         public Cell GetCellByPosition(int x,int y)
@@ -80,8 +81,9 @@ namespace Traffic_Advisor
             int newY = y / 200;
             foreach (Cell c in Cells)
             {
-                if (newX == c.X && newY == c.Y)
-                    return c;
+                if (c != null)
+                    if (newX == c.X && newY == c.Y)
+                        return c;
             }
             return null;
         }
